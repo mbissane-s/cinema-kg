@@ -1,0 +1,77 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex:   <http://example.org/> .
+
+ex:CinemaOntology a owl:Ontology ;
+    rdfs:label "Cinema Knowledge Graph Ontology" ;
+    rdfs:comment "Ontology for the cinema domain covering films, directors, and actors." .
+
+# ── Classes ────────────────────────────────────────────────────────────────
+
+ex:Film a owl:Class ;
+    rdfs:label "Film" ;
+    rdfs:comment "A motion picture." .
+
+ex:Person a owl:Class ;
+    rdfs:label "Person" ;
+    rdfs:comment "A human being involved in cinema." .
+
+ex:Director a owl:Class ;
+    rdfs:subClassOf ex:Person ;
+    rdfs:label "Director" ;
+    rdfs:comment "A person who directs a film." .
+
+ex:Actor a owl:Class ;
+    rdfs:subClassOf ex:Person ;
+    rdfs:label "Actor" ;
+    rdfs:comment "A person who acts in a film." .
+
+# ── Object Properties ──────────────────────────────────────────────────────
+
+ex:directedBy a owl:ObjectProperty ;
+    rdfs:label "directed by" ;
+    rdfs:comment "Relates a film to its director." ;
+    rdfs:domain ex:Film ;
+    rdfs:range  ex:Director ;
+    owl:inverseOf ex:directed .
+
+ex:directed a owl:ObjectProperty ;
+    rdfs:label "directed" ;
+    rdfs:comment "Relates a director to a film they directed." ;
+    rdfs:domain ex:Director ;
+    rdfs:range  ex:Film ;
+    owl:inverseOf ex:directedBy .
+
+ex:actedIn a owl:ObjectProperty ;
+    rdfs:label "acted in" ;
+    rdfs:comment "Relates an actor to a film they appeared in." ;
+    rdfs:domain ex:Actor ;
+    rdfs:range  ex:Film ;
+    owl:inverseOf ex:hasActor .
+
+ex:hasActor a owl:ObjectProperty ;
+    rdfs:label "has actor" ;
+    rdfs:comment "Relates a film to an actor who appeared in it." ;
+    rdfs:domain ex:Film ;
+    rdfs:range  ex:Actor ;
+    owl:inverseOf ex:actedIn .
+
+ex:workedWith a owl:ObjectProperty , owl:SymmetricProperty ;
+    rdfs:label "worked with" ;
+    rdfs:comment "Two people who collaborated on the same film." ;
+    rdfs:domain ex:Person ;
+    rdfs:range  ex:Person .
+
+# ── Datatype Properties ────────────────────────────────────────────────────
+
+ex:filmTitle a owl:DatatypeProperty ;
+    rdfs:label "film title" ;
+    rdfs:domain ex:Film ;
+    rdfs:range  xsd:string .
+
+ex:personName a owl:DatatypeProperty ;
+    rdfs:label "person name" ;
+    rdfs:domain ex:Person ;
+    rdfs:range  xsd:string .

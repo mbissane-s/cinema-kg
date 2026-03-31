@@ -1,0 +1,2092 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix ex:   <http://example.org/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+
+# owl:sameAs alignment between local entities and DBpedia resources
+
+ex:1984_(2023_film)
+    a ex:Film ;
+    rdfs:label "1984 (2023 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/1984_(2023_film)> .
+
+ex:80s_Buildup
+    a ex:Film ;
+    rdfs:label "80s Buildup" ;
+    owl:sameAs <http://dbpedia.org/resource/80s_Buildup> .
+
+ex:A_Big_Case
+    a ex:Film ;
+    rdfs:label "A Big Case" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Big_Case> .
+
+ex:A_Bird_of_Heaven
+    a ex:Film ;
+    rdfs:label "A Bird of Heaven" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Bird_of_Heaven> .
+
+ex:A_Game_with_Love
+    a ex:Film ;
+    rdfs:label "A Game with Love" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Game_with_Love> .
+
+ex:A_Heart_Stops_Beating
+    a ex:Film ;
+    rdfs:label "A Heart Stops Beating" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Heart_Stops_Beating> .
+
+ex:A_Husband_for_Susy
+    a ex:Film ;
+    rdfs:label "A Husband for Susy" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Husband_for_Susy> .
+
+ex:A_Lover_of_the_Theatre
+    a ex:Film ;
+    rdfs:label "A Lover of the Theatre" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Lover_of_the_Theatre> .
+
+ex:A_Real_Pain
+    a ex:Film ;
+    rdfs:label "A Real Pain" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Real_Pain> .
+
+ex:A_Silence
+    a ex:Film ;
+    rdfs:label "A Silence" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Silence> .
+
+ex:A_Tribe_Called_Judah
+    a ex:Film ;
+    rdfs:label "A Tribe Called Judah" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Tribe_Called_Judah> .
+
+ex:A_Woman_Gets_a_Start
+    a ex:Film ;
+    rdfs:label "A Woman Gets a Start" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Woman_Gets_a_Start> .
+
+ex:A_Woman_Looks_Back
+    a ex:Film ;
+    rdfs:label "A Woman Looks Back" ;
+    owl:sameAs <http://dbpedia.org/resource/A_Woman_Looks_Back> .
+
+ex:Abigail_Harm
+    a ex:Film ;
+    rdfs:label "Abigail Harm" ;
+    owl:sameAs <http://dbpedia.org/resource/Abigail_Harm> .
+
+ex:Accident_(1955_film)
+    a ex:Film ;
+    rdfs:label "Accident (1955 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Accident_(1955_film)> .
+
+ex:Ada_Omo_Daddy
+    a ex:Film ;
+    rdfs:label "Ada Omo Daddy" ;
+    owl:sameAs <http://dbpedia.org/resource/Ada_Omo_Daddy> .
+
+ex:Adikts
+    a ex:Film ;
+    rdfs:label "Adikts" ;
+    owl:sameAs <http://dbpedia.org/resource/Adikts> .
+
+ex:Adrishya_Jalakangal
+    a ex:Film ;
+    rdfs:label "Adrishya Jalakangal" ;
+    owl:sameAs <http://dbpedia.org/resource/Adrishya_Jalakangal> .
+
+ex:African_Bride
+    a ex:Film ;
+    rdfs:label "African Bride" ;
+    owl:sameAs <http://dbpedia.org/resource/African_Bride> .
+
+ex:After_the_Storm_(1945_film)
+    a ex:Film ;
+    rdfs:label "After the Storm (1945 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/After_the_Storm_(1945_film)> .
+
+ex:All_Shall_Be_Well_(film)
+    a ex:Film ;
+    rdfs:label "All Shall Be Well (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/All_Shall_Be_Well_(film)> .
+
+ex:Amsterdamned_II
+    a ex:Film ;
+    rdfs:label "Amsterdamned II" ;
+    owl:sameAs <http://dbpedia.org/resource/Amsterdamned_II> .
+
+ex:An_Affair_of_Honour
+    a ex:Film ;
+    rdfs:label "An Affair of Honour" ;
+    owl:sameAs <http://dbpedia.org/resource/An_Affair_of_Honour> .
+
+ex:Ananda_Ashru
+    a ex:Film ;
+    rdfs:label "Ananda Ashru" ;
+    owl:sameAs <http://dbpedia.org/resource/Ananda_Ashru> .
+
+ex:And_Then_The_Guy...
+    a ex:Film ;
+    rdfs:label "And Then The Guy..." ;
+    owl:sameAs <http://dbpedia.org/resource/And_Then_The_Guy...> .
+
+ex:Andragogy_(film)
+    a ex:Film ;
+    rdfs:label "Andragogy (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Andragogy_(film)> .
+
+ex:András_(film)
+    a ex:Film ;
+    rdfs:label "András (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/András_(film)> .
+
+ex:Anniversary_(1936_film)
+    a ex:Film ;
+    rdfs:label "Anniversary (1936 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Anniversary_(1936_film)> .
+
+ex:Ash_(upcoming_film)
+    a ex:Film ;
+    rdfs:label "Ash (upcoming film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Ash_(upcoming_film)> .
+
+ex:Ashi_Hi_Aashiqui
+    a ex:Film ;
+    rdfs:label "Ashi Hi Aashiqui" ;
+    owl:sameAs <http://dbpedia.org/resource/Ashi_Hi_Aashiqui> .
+
+ex:At_Midnight_(1957_film)
+    a ex:Film ;
+    rdfs:label "At Midnight (1957 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/At_Midnight_(1957_film)> .
+
+ex:At_the_Crossroads_(1942_film)
+    a ex:Film ;
+    rdfs:label "At the Crossroads (1942 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/At_the_Crossroads_(1942_film)> .
+
+ex:Babygirl
+    a ex:Film ;
+    rdfs:label "Babygirl" ;
+    owl:sameAs <http://dbpedia.org/resource/Babygirl> .
+
+ex:Back_to_Life_(2023_film)
+    a ex:Film ;
+    rdfs:label "Back to Life (2023 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Back_to_Life_(2023_film)> .
+
+ex:Baptism_of_Fire_(1952_film)
+    a ex:Film ;
+    rdfs:label "Baptism of Fire (1952 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Baptism_of_Fire_(1952_film)> .
+
+ex:Barbara_in_America
+    a ex:Film ;
+    rdfs:label "Barbara in America" ;
+    owl:sameAs <http://dbpedia.org/resource/Barbara_in_America> .
+
+ex:Bastar:_The_Naxal_Story
+    a ex:Film ;
+    rdfs:label "Bastar: The Naxal Story" ;
+    owl:sameAs <http://dbpedia.org/resource/Bastar:_The_Naxal_Story> .
+
+ex:Battle_in_Peace
+    a ex:Film ;
+    rdfs:label "Battle in Peace" ;
+    owl:sameAs <http://dbpedia.org/resource/Battle_in_Peace> .
+
+ex:Beauty_of_the_Pusta
+    a ex:Film ;
+    rdfs:label "Beauty of the Pusta" ;
+    owl:sameAs <http://dbpedia.org/resource/Beauty_of_the_Pusta> .
+
+ex:Becky_&_Badette
+    a ex:Film ;
+    rdfs:label "Becky & Badette" ;
+    owl:sameAs <http://dbpedia.org/resource/Becky_&_Badette> .
+
+ex:Bellbird_(film)
+    a ex:Film ;
+    rdfs:label "Bellbird (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Bellbird_(film)> .
+
+ex:Between_River_and_Steppe
+    a ex:Film ;
+    rdfs:label "Between River and Steppe" ;
+    owl:sameAs <http://dbpedia.org/resource/Between_River_and_Steppe> .
+
+ex:Between_the_Temples
+    a ex:Film ;
+    rdfs:label "Between the Temples" ;
+    owl:sameAs <http://dbpedia.org/resource/Between_the_Temples> .
+
+ex:Big_News_from_Grand_Rock
+    a ex:Film ;
+    rdfs:label "Big News from Grand Rock" ;
+    owl:sameAs <http://dbpedia.org/resource/Big_News_from_Grand_Rock> .
+
+ex:Bootlegger_(2021_film)
+    a ex:Film ;
+    rdfs:label "Bootlegger (2021 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Bootlegger_(2021_film)> .
+
+ex:Breath_of_Life_(2023_film)
+    a ex:Film ;
+    rdfs:label "Breath of Life (2023 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Breath_of_Life_(2023_film)> .
+
+ex:Brothers_(1929_American_film)
+    a ex:Film ;
+    rdfs:label "Brothers (1929 American film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Brothers_(1929_American_film)> .
+
+ex:Bungalow_(2022_film)
+    a ex:Film ;
+    rdfs:label "Bungalow (2022 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Bungalow_(2022_film)> .
+
+ex:Bury_the_Bride
+    a ex:Film ;
+    rdfs:label "Bury the Bride" ;
+    owl:sameAs <http://dbpedia.org/resource/Bury_the_Bride> .
+
+ex:By_Order_of_the_Emperor
+    a ex:Film ;
+    rdfs:label "By Order of the Emperor" ;
+    owl:sameAs <http://dbpedia.org/resource/By_Order_of_the_Emperor> .
+
+ex:Caniba_(film)
+    a ex:Film ;
+    rdfs:label "Caniba (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Caniba_(film)> .
+
+ex:Castle_in_Transylvania
+    a ex:Film ;
+    rdfs:label "Castle in Transylvania" ;
+    owl:sameAs <http://dbpedia.org/resource/Castle_in_Transylvania> .
+
+ex:Changu_Mangu
+    a ex:Film ;
+    rdfs:label "Changu Mangu" ;
+    owl:sameAs <http://dbpedia.org/resource/Changu_Mangu> .
+
+ex:Chathuram
+    a ex:Film ;
+    rdfs:label "Chathuram" ;
+    owl:sameAs <http://dbpedia.org/resource/Chathuram> .
+
+ex:Chief_of_Station_(film)
+    a ex:Film ;
+    rdfs:label "Chief of Station (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Chief_of_Station_(film)> .
+
+ex:Chosen_Family_(film)
+    a ex:Film ;
+    rdfs:label "Chosen Family (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Chosen_Family_(film)> .
+
+ex:Christmess
+    a ex:Film ;
+    rdfs:label "Christmess" ;
+    owl:sameAs <http://dbpedia.org/resource/Christmess> .
+
+ex:Code_3_(film)
+    a ex:Film ;
+    rdfs:label "Code 3 (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Code_3_(film)> .
+
+ex:Cornflower_(film)
+    a ex:Film ;
+    rdfs:label "Cornflower (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Cornflower_(film)> .
+
+ex:Crakk
+    a ex:Film ;
+    rdfs:label "Crakk" ;
+    owl:sameAs <http://dbpedia.org/resource/Crakk> .
+
+ex:Crime_at_Dawn
+    a ex:Film ;
+    rdfs:label "Crime at Dawn" ;
+    owl:sameAs <http://dbpedia.org/resource/Crime_at_Dawn> .
+
+ex:Crimes_Against_Humanity_(film)
+    a ex:Film ;
+    rdfs:label "Crimes Against Humanity (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Crimes_Against_Humanity_(film)> .
+
+ex:Cult_Killer
+    a ex:Film ;
+    rdfs:label "Cult Killer" ;
+    owl:sameAs <http://dbpedia.org/resource/Cult_Killer> .
+
+ex:Dani_(film)
+    a ex:Film ;
+    rdfs:label "Dani (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Dani_(film)> .
+
+ex:Danse_Macabre_(1958_film)
+    a ex:Film ;
+    rdfs:label "Danse Macabre (1958 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Danse_Macabre_(1958_film)> .
+
+ex:Deadcon
+    a ex:Film ;
+    rdfs:label "Deadcon" ;
+    owl:sameAs <http://dbpedia.org/resource/Deadcon> .
+
+ex:Deadly_Kiss
+    a ex:Film ;
+    rdfs:label "Deadly Kiss" ;
+    owl:sameAs <http://dbpedia.org/resource/Deadly_Kiss> .
+
+ex:Don't_Ask_Who_I_Was
+    a ex:Film ;
+    rdfs:label "Don't Ask Who I Was" ;
+    owl:sameAs <http://dbpedia.org/resource/Don't_Ask_Who_I_Was> .
+
+ex:Don_Juan's_Last_Adventure
+    a ex:Film ;
+    rdfs:label "Don Juan's Last Adventure" ;
+    owl:sameAs <http://dbpedia.org/resource/Don_Juan's_Last_Adventure> .
+
+ex:Dream_Waltz
+    a ex:Film ;
+    rdfs:label "Dream Waltz" ;
+    owl:sameAs <http://dbpedia.org/resource/Dream_Waltz> .
+
+ex:Dreams_of_Love_(1935_German_film)
+    a ex:Film ;
+    rdfs:label "Dreams of Love (1935 German film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Dreams_of_Love_(1935_German_film)> .
+
+ex:Dry_Day
+    a ex:Film ;
+    rdfs:label "Dry Day" ;
+    owl:sameAs <http://dbpedia.org/resource/Dry_Day> .
+
+ex:Dvand:_The_Internal_Conflict
+    a ex:Film ;
+    rdfs:label "Dvand: The Internal Conflict" ;
+    owl:sameAs <http://dbpedia.org/resource/Dvand:_The_Internal_Conflict> .
+
+ex:Déryné_(film)
+    a ex:Film ;
+    rdfs:label "Déryné (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Déryné_(film)> .
+
+ex:Dìdi
+    a ex:Film ;
+    rdfs:label "Dìdi" ;
+    owl:sameAs <http://dbpedia.org/resource/Dìdi> .
+
+ex:Eden_(2024_film)
+    a ex:Film ;
+    rdfs:label "Eden (2024 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Eden_(2024_film)> .
+
+ex:Emilia_Pérez__Emilia_Pérez__1
+    a ex:Film ;
+    rdfs:label "Emilia Pérez  Emilia Pérez  1" ;
+    owl:sameAs <http://dbpedia.org/resource/Emilia_Pérez__Emilia_Pérez__1> .
+
+ex:Exhibiting_Forgiveness
+    a ex:Film ;
+    rdfs:label "Exhibiting Forgiveness" ;
+    owl:sameAs <http://dbpedia.org/resource/Exhibiting_Forgiveness> .
+
+ex:Falcon_Lake_(film)
+    a ex:Film ;
+    rdfs:label "Falcon Lake (film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Falcon_Lake_(film)> .
+
+ex:Falling_In_Love_Like_In_Movies
+    a ex:Film ;
+    rdfs:label "Falling In Love Like In Movies" ;
+    owl:sameAs <http://dbpedia.org/resource/Falling_In_Love_Like_In_Movies> .
+
+ex:Family_Bonus
+    a ex:Film ;
+    rdfs:label "Family Bonus" ;
+    owl:sameAs <http://dbpedia.org/resource/Family_Bonus> .
+
+ex:Fantastic_Night_(1943_film)
+    a ex:Film ;
+    rdfs:label "Fantastic Night (1943 film)" ;
+    owl:sameAs <http://dbpedia.org/resource/Fantastic_Night_(1943_film)> .
+
+ex:Farador
+    a ex:Film ;
+    rdfs:label "Farador" ;
+    owl:sameAs <http://dbpedia.org/resource/Farador> .
+
+ex:Adam_Sedlák_(director)
+    a ex:Director ;
+    rdfs:label "Adam Sedlák" ;
+    owl:sameAs <http://dbpedia.org/resource/Adam_Sedlák_(director)> .
+
+ex:Adebayo_Tijani
+    a ex:Director ;
+    rdfs:label "Adebayo Tijani" ;
+    owl:sameAs <http://dbpedia.org/resource/Adebayo_Tijani> .
+
+ex:Aditya_Datt
+    a ex:Director ;
+    rdfs:label "Aditya Datt" ;
+    owl:sameAs <http://dbpedia.org/resource/Aditya_Datt> .
+
+ex:Alfredo_Hueck
+    a ex:Director ;
+    rdfs:label "Alfredo Hueck" ;
+    owl:sameAs <http://dbpedia.org/resource/Alfredo_Hueck> .
+
+ex:BB_Sasore
+    a ex:Director ;
+    rdfs:label "BB Sasore" ;
+    owl:sameAs <http://dbpedia.org/resource/BB_Sasore> .
+
+ex:Bipin_Varti
+    a ex:Director ;
+    rdfs:label "Bipin Varti" ;
+    owl:sameAs <http://dbpedia.org/resource/Bipin_Varti> .
+
+ex:Béla_Balogh
+    a ex:Director ;
+    rdfs:label "Béla Balogh" ;
+    owl:sameAs <http://dbpedia.org/resource/Béla_Balogh> .
+
+ex:Béla_Gaál
+    a ex:Director ;
+    rdfs:label "Béla Gaál" ;
+    owl:sameAs <http://dbpedia.org/resource/Béla_Gaál> .
+
+ex:Caroline_Monnet
+    a ex:Director ;
+    rdfs:label "Caroline Monnet" ;
+    owl:sameAs <http://dbpedia.org/resource/Caroline_Monnet> .
+
+ex:Caryn_Waechter
+    a ex:Director ;
+    rdfs:label "Caryn Waechter" ;
+    owl:sameAs <http://dbpedia.org/resource/Caryn_Waechter> .
+
+ex:Charlotte_Le_Bon
+    a ex:Director ;
+    rdfs:label "Charlotte Le Bon" ;
+    owl:sameAs <http://dbpedia.org/resource/Charlotte_Le_Bon> .
+
+ex:Christmess
+    a ex:Director ;
+    rdfs:label "Christmess" ;
+    owl:sameAs <http://dbpedia.org/resource/Christmess> .
+
+ex:Christopher_Leone
+    a ex:Director ;
+    rdfs:label "Christopher Leone" ;
+    owl:sameAs <http://dbpedia.org/resource/Christopher_Leone> .
+
+ex:Daniel_Perlmutter
+    a ex:Director ;
+    rdfs:label "Daniel Perlmutter" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Perlmutter> .
+
+ex:Diana_Ringo
+    a ex:Director ;
+    rdfs:label "Diana Ringo" ;
+    owl:sameAs <http://dbpedia.org/resource/Diana_Ringo> .
+
+ex:Dick_Maas
+    a ex:Director ;
+    rdfs:label "Dick Maas" ;
+    owl:sameAs <http://dbpedia.org/resource/Dick_Maas> .
+
+ex:Dr._Biju
+    a ex:Director ;
+    rdfs:label "Dr. Biju" ;
+    owl:sameAs <http://dbpedia.org/resource/Dr._Biju> .
+
+ex:Emil_Martonffy
+    a ex:Director ;
+    rdfs:label "Emil Martonffy" ;
+    owl:sameAs <http://dbpedia.org/resource/Emil_Martonffy> .
+
+ex:Flying_Lotus
+    a ex:Director ;
+    rdfs:label "Flying Lotus" ;
+    owl:sameAs <http://dbpedia.org/resource/Flying_Lotus> .
+
+ex:Frigyes_Bán
+    a ex:Director ;
+    rdfs:label "Frigyes Bán" ;
+    owl:sameAs <http://dbpedia.org/resource/Frigyes_Bán> .
+
+ex:Funke_Akindele
+    a ex:Director ;
+    rdfs:label "Funke Akindele" ;
+    owl:sameAs <http://dbpedia.org/resource/Funke_Akindele> .
+
+ex:Félix_Podmaniczky
+    a ex:Director ;
+    rdfs:label "Félix Podmaniczky" ;
+    owl:sameAs <http://dbpedia.org/resource/Félix_Podmaniczky> .
+
+ex:György_Révész
+    a ex:Director ;
+    rdfs:label "György Révész" ;
+    owl:sameAs <http://dbpedia.org/resource/György_Révész> .
+
+ex:Géza_von_Bolváry
+    a ex:Director ;
+    rdfs:label "Géza von Bolváry" ;
+    owl:sameAs <http://dbpedia.org/resource/Géza_von_Bolváry> .
+
+ex:Géza_von_Radványi
+    a ex:Director ;
+    rdfs:label "Géza von Radványi" ;
+    owl:sameAs <http://dbpedia.org/resource/Géza_von_Radványi> .
+
+ex:Halina_Reijn
+    a ex:Director ;
+    rdfs:label "Halina Reijn" ;
+    owl:sameAs <http://dbpedia.org/resource/Halina_Reijn> .
+
+ex:Hamish_Bennett_(director)
+    a ex:Director ;
+    rdfs:label "Hamish Bennett" ;
+    owl:sameAs <http://dbpedia.org/resource/Hamish_Bennett_(director)> .
+
+ex:Heather_Graham
+    a ex:Director ;
+    rdfs:label "Heather Graham" ;
+    owl:sameAs <http://dbpedia.org/resource/Heather_Graham> .
+
+ex:Heinz_Hille
+    a ex:Director ;
+    rdfs:label "Heinz Hille" ;
+    owl:sameAs <http://dbpedia.org/resource/Heinz_Hille> .
+
+ex:Imre_Apáthi
+    a ex:Director ;
+    rdfs:label "Imre Apáthi" ;
+    owl:sameAs <http://dbpedia.org/resource/Imre_Apáthi> .
+
+ex:Imre_Fehér
+    a ex:Director ;
+    rdfs:label "Imre Fehér" ;
+    owl:sameAs <http://dbpedia.org/resource/Imre_Fehér> .
+
+ex:Imre_Jeney
+    a ex:Director ;
+    rdfs:label "Imre Jeney" ;
+    owl:sameAs <http://dbpedia.org/resource/Imre_Jeney> .
+
+ex:Ishtiyak_Khan
+    a ex:Director ;
+    rdfs:label "Ishtiyak Khan" ;
+    owl:sameAs <http://dbpedia.org/resource/Ishtiyak_Khan> .
+
+ex:István_Balogh_(director)
+    a ex:Director ;
+    rdfs:label "István Balogh" ;
+    owl:sameAs <http://dbpedia.org/resource/István_Balogh_(director)> .
+
+ex:Jacques_Audiard
+    a ex:Director ;
+    rdfs:label "Jacques Audiard" ;
+    owl:sameAs <http://dbpedia.org/resource/Jacques_Audiard> .
+
+ex:Jenö_Csepreghy
+    a ex:Director ;
+    rdfs:label "Jenö Csepreghy" ;
+    owl:sameAs <http://dbpedia.org/resource/Jenö_Csepreghy> .
+
+ex:Jerzy_Rose
+    a ex:Director ;
+    rdfs:label "Jerzy Rose" ;
+    owl:sameAs <http://dbpedia.org/resource/Jerzy_Rose> .
+
+ex:Jesse_Eisenberg
+    a ex:Director ;
+    rdfs:label "Jesse Eisenberg" ;
+    owl:sameAs <http://dbpedia.org/resource/Jesse_Eisenberg> .
+
+ex:Jesse_V._Johnson
+    a ex:Director ;
+    rdfs:label "Jesse V. Johnson" ;
+    owl:sameAs <http://dbpedia.org/resource/Jesse_V._Johnson> .
+
+ex:Joachim_Lafosse
+    a ex:Director ;
+    rdfs:label "Joachim Lafosse" ;
+    owl:sameAs <http://dbpedia.org/resource/Joachim_Lafosse> .
+
+ex:Jon_Keeyes
+    a ex:Director ;
+    rdfs:label "Jon Keeyes" ;
+    owl:sameAs <http://dbpedia.org/resource/Jon_Keeyes> .
+
+ex:Josef_Mach
+    a ex:Director ;
+    rdfs:label "Josef Mach" ;
+    owl:sameAs <http://dbpedia.org/resource/Josef_Mach> .
+
+ex:Jun_Lana
+    a ex:Director ;
+    rdfs:label "Jun Lana" ;
+    owl:sameAs <http://dbpedia.org/resource/Jun_Lana> .
+
+ex:József_Daróczy
+    a ex:Director ;
+    rdfs:label "József Daróczy" ;
+    owl:sameAs <http://dbpedia.org/resource/József_Daróczy> .
+
+ex:Kalyaan
+    a ex:Director ;
+    rdfs:label "Kalyaan" ;
+    owl:sameAs <http://dbpedia.org/resource/Kalyaan> .
+
+ex:Lawrence_Côté-Collins
+    a ex:Director ;
+    rdfs:label "Lawrence Côté-Collins" ;
+    owl:sameAs <http://dbpedia.org/resource/Lawrence_Côté-Collins> .
+
+ex:Lee_Isaac_Chung
+    a ex:Director ;
+    rdfs:label "Lee Isaac Chung" ;
+    owl:sameAs <http://dbpedia.org/resource/Lee_Isaac_Chung> .
+
+ex:Lucien_Castaing-Taylor
+    a ex:Director ;
+    rdfs:label "Lucien Castaing-Taylor" ;
+    owl:sameAs <http://dbpedia.org/resource/Lucien_Castaing-Taylor> .
+
+ex:Luis_Marquina_(director)
+    a ex:Director ;
+    rdfs:label "Luis Marquina" ;
+    owl:sameAs <http://dbpedia.org/resource/Luis_Marquina_(director)> .
+
+ex:László_Kalmár_(director)
+    a ex:Director ;
+    rdfs:label "László Kalmár" ;
+    owl:sameAs <http://dbpedia.org/resource/László_Kalmár_(director)> .
+
+ex:László_Nádasy
+    a ex:Director ;
+    rdfs:label "László Nádasy" ;
+    owl:sameAs <http://dbpedia.org/resource/László_Nádasy> .
+
+ex:László_Ranódy
+    a ex:Director ;
+    rdfs:label "László Ranódy" ;
+    owl:sameAs <http://dbpedia.org/resource/László_Ranódy> .
+
+ex:Mihály_Szemes
+    a ex:Director ;
+    rdfs:label "Mihály Szemes" ;
+    owl:sameAs <http://dbpedia.org/resource/Mihály_Szemes> .
+
+ex:Mostafizur_Rahman_Manik
+    a ex:Director ;
+    rdfs:label "Mostafizur Rahman Manik" ;
+    owl:sameAs <http://dbpedia.org/resource/Mostafizur_Rahman_Manik> .
+
+ex:Márton_Keleti
+    a ex:Director ;
+    rdfs:label "Márton Keleti" ;
+    owl:sameAs <http://dbpedia.org/resource/Márton_Keleti> .
+
+ex:Nathan_Silver
+    a ex:Director ;
+    rdfs:label "Nathan Silver" ;
+    owl:sameAs <http://dbpedia.org/resource/Nathan_Silver> .
+
+ex:Ray_Yeung
+    a ex:Director ;
+    rdfs:label "Ray Yeung" ;
+    owl:sameAs <http://dbpedia.org/resource/Ray_Yeung> .
+
+ex:Ron_Howard
+    a ex:Director ;
+    rdfs:label "Ron Howard" ;
+    owl:sameAs <http://dbpedia.org/resource/Ron_Howard> .
+
+ex:Sachin_Pilgaonkar
+    a ex:Director ;
+    rdfs:label "Sachin Pilgaonkar" ;
+    owl:sameAs <http://dbpedia.org/resource/Sachin_Pilgaonkar> .
+
+ex:Saurabh_Shukla
+    a ex:Director ;
+    rdfs:label "Saurabh Shukla" ;
+    owl:sameAs <http://dbpedia.org/resource/Saurabh_Shukla> .
+
+ex:Scott_Pembroke
+    a ex:Director ;
+    rdfs:label "Scott Pembroke" ;
+    owl:sameAs <http://dbpedia.org/resource/Scott_Pembroke> .
+
+ex:Sean_Wang
+    a ex:Director ;
+    rdfs:label "Sean Wang" ;
+    owl:sameAs <http://dbpedia.org/resource/Sean_Wang> .
+
+ex:Sidharth_Bharathan
+    a ex:Director ;
+    rdfs:label "Sidharth Bharathan" ;
+    owl:sameAs <http://dbpedia.org/resource/Sidharth_Bharathan> .
+
+ex:Spider_One
+    a ex:Director ;
+    rdfs:label "Spider One" ;
+    owl:sameAs <http://dbpedia.org/resource/Spider_One> .
+
+ex:Steve_Sekely
+    a ex:Director ;
+    rdfs:label "Steve Sekely" ;
+    owl:sameAs <http://dbpedia.org/resource/Steve_Sekely> .
+
+ex:Sudipto_Sen
+    a ex:Director ;
+    rdfs:label "Sudipto Sen" ;
+    owl:sameAs <http://dbpedia.org/resource/Sudipto_Sen> .
+
+ex:Titus_Kaphar
+    a ex:Director ;
+    rdfs:label "Titus Kaphar" ;
+    owl:sameAs <http://dbpedia.org/resource/Titus_Kaphar> .
+
+ex:Viktor_Bánky
+    a ex:Director ;
+    rdfs:label "Viktor Bánky" ;
+    owl:sameAs <http://dbpedia.org/resource/Viktor_Bánky> .
+
+ex:Viktor_Gertler
+    a ex:Director ;
+    rdfs:label "Viktor Gertler" ;
+    owl:sameAs <http://dbpedia.org/resource/Viktor_Gertler> .
+
+ex:Václav_Kubásek
+    a ex:Director ;
+    rdfs:label "Václav Kubásek" ;
+    owl:sameAs <http://dbpedia.org/resource/Václav_Kubásek> .
+
+ex:Véréna_Paravel
+    a ex:Director ;
+    rdfs:label "Véréna Paravel" ;
+    owl:sameAs <http://dbpedia.org/resource/Véréna_Paravel> .
+
+ex:Wregas_Bhanuteja
+    a ex:Director ;
+    rdfs:label "Wregas Bhanuteja" ;
+    owl:sameAs <http://dbpedia.org/resource/Wregas_Bhanuteja> .
+
+ex:Yandy_Laurens
+    a ex:Director ;
+    rdfs:label "Yandy Laurens" ;
+    owl:sameAs <http://dbpedia.org/resource/Yandy_Laurens> .
+
+ex:Zoltán_Várkonyi
+    a ex:Director ;
+    rdfs:label "Zoltán Várkonyi" ;
+    owl:sameAs <http://dbpedia.org/resource/Zoltán_Várkonyi> .
+
+ex:Édouard_Albernhe_Tremblay
+    a ex:Director ;
+    rdfs:label "Édouard Albernhe Tremblay" ;
+    owl:sameAs <http://dbpedia.org/resource/Édouard_Albernhe_Tremblay> .
+
+ex:Aaron_Ashmore
+    a ex:Actor ;
+    rdfs:label "Aaron Ashmore" ;
+    owl:sameAs <http://dbpedia.org/resource/Aaron_Ashmore> .
+
+ex:Aaron_Eckhart
+    a ex:Actor ;
+    rdfs:label "Aaron Eckhart" ;
+    owl:sameAs <http://dbpedia.org/resource/Aaron_Eckhart> .
+
+ex:Aaron_Paul
+    a ex:Actor ;
+    rdfs:label "Aaron Paul" ;
+    owl:sameAs <http://dbpedia.org/resource/Aaron_Paul> .
+
+ex:Abhinay_Berde
+    a ex:Actor ;
+    rdfs:label "Abhinay Berde" ;
+    owl:sameAs <http://dbpedia.org/resource/Abhinay_Berde> .
+
+ex:Adah_Sharma
+    a ex:Actor ;
+    rdfs:label "Adah Sharma" ;
+    owl:sameAs <http://dbpedia.org/resource/Adah_Sharma> .
+
+ex:Adriana_Paz
+    a ex:Actor ;
+    rdfs:label "Adriana Paz" ;
+    owl:sameAs <http://dbpedia.org/resource/Adriana_Paz> .
+
+ex:Aimee_Carrero
+    a ex:Actor ;
+    rdfs:label "Aimee Carrero" ;
+    owl:sameAs <http://dbpedia.org/resource/Aimee_Carrero> .
+
+ex:Aleksandr_Obmanov
+    a ex:Actor ;
+    rdfs:label "Aleksandr Obmanov" ;
+    owl:sameAs <http://dbpedia.org/resource/Aleksandr_Obmanov> .
+
+ex:Alencier_Ley_Lopez
+    a ex:Actor ;
+    rdfs:label "Alencier Ley Lopez" ;
+    owl:sameAs <http://dbpedia.org/resource/Alencier_Ley_Lopez> .
+
+ex:Alex_Abbad
+    a ex:Actor ;
+    rdfs:label "Alex Abbad" ;
+    owl:sameAs <http://dbpedia.org/resource/Alex_Abbad> .
+
+ex:Alex_Pettyfer
+    a ex:Actor ;
+    rdfs:label "Alex Pettyfer" ;
+    owl:sameAs <http://dbpedia.org/resource/Alex_Pettyfer> .
+
+ex:Alice_Eve
+    a ex:Actor ;
+    rdfs:label "Alice Eve" ;
+    owl:sameAs <http://dbpedia.org/resource/Alice_Eve> .
+
+ex:Alice_Fényes
+    a ex:Actor ;
+    rdfs:label "Alice Fényes" ;
+    owl:sameAs <http://dbpedia.org/resource/Alice_Fényes> .
+
+ex:Amanda_Plummer
+    a ex:Actor ;
+    rdfs:label "Amanda Plummer" ;
+    owl:sameAs <http://dbpedia.org/resource/Amanda_Plummer> .
+
+ex:Amy_Jackson
+    a ex:Actor ;
+    rdfs:label "Amy Jackson" ;
+    owl:sameAs <http://dbpedia.org/resource/Amy_Jackson> .
+
+ex:Ana_de_Armas
+    a ex:Actor ;
+    rdfs:label "Ana de Armas" ;
+    owl:sameAs <http://dbpedia.org/resource/Ana_de_Armas> .
+
+ex:Andor_Ajtay
+    a ex:Actor ;
+    rdfs:label "Andor Ajtay" ;
+    owl:sameAs <http://dbpedia.org/resource/Andor_Ajtay> .
+
+ex:Andra_Day
+    a ex:Actor ;
+    rdfs:label "Andra Day" ;
+    owl:sameAs <http://dbpedia.org/resource/Andra_Day> .
+
+ex:Andrea_Savage
+    a ex:Actor ;
+    rdfs:label "Andrea Savage" ;
+    owl:sameAs <http://dbpedia.org/resource/Andrea_Savage> .
+
+ex:André_Holland
+    a ex:Actor ;
+    rdfs:label "André Holland" ;
+    owl:sameAs <http://dbpedia.org/resource/André_Holland> .
+
+ex:Angga_Yunanda
+    a ex:Actor ;
+    rdfs:label "Angga Yunanda" ;
+    owl:sameAs <http://dbpedia.org/resource/Angga_Yunanda> .
+
+ex:Ankit_Mohan
+    a ex:Actor ;
+    rdfs:label "Ankit Mohan" ;
+    owl:sameAs <http://dbpedia.org/resource/Ankit_Mohan> .
+
+ex:Annie_Whittle
+    a ex:Actor ;
+    rdfs:label "Annie Whittle" ;
+    owl:sameAs <http://dbpedia.org/resource/Annie_Whittle> .
+
+ex:Annu_Kapoor
+    a ex:Actor ;
+    rdfs:label "Annu Kapoor" ;
+    owl:sameAs <http://dbpedia.org/resource/Annu_Kapoor> .
+
+ex:Antal_Páger_(actor)
+    a ex:Actor ;
+    rdfs:label "Antal Páger" ;
+    owl:sameAs <http://dbpedia.org/resource/Antal_Páger_(actor)> .
+
+ex:Antonio_Banderas
+    a ex:Actor ;
+    rdfs:label "Antonio Banderas" ;
+    owl:sameAs <http://dbpedia.org/resource/Antonio_Banderas> .
+
+ex:Arjun_Rampal
+    a ex:Actor ;
+    rdfs:label "Arjun Rampal" ;
+    owl:sameAs <http://dbpedia.org/resource/Arjun_Rampal> .
+
+ex:Artúr_Somlay
+    a ex:Actor ;
+    rdfs:label "Artúr Somlay" ;
+    owl:sameAs <http://dbpedia.org/resource/Artúr_Somlay> .
+
+ex:Aruna_Irani
+    a ex:Actor ;
+    rdfs:label "Aruna Irani" ;
+    owl:sameAs <http://dbpedia.org/resource/Aruna_Irani> .
+
+ex:Ashok_Saraf
+    a ex:Actor ;
+    rdfs:label "Ashok Saraf" ;
+    owl:sameAs <http://dbpedia.org/resource/Ashok_Saraf> .
+
+ex:Attila_Hörbiger
+    a ex:Actor ;
+    rdfs:label "Attila Hörbiger" ;
+    owl:sameAs <http://dbpedia.org/resource/Attila_Hörbiger> .
+
+ex:Aunjanue_Ellis-Taylor
+    a ex:Actor ;
+    rdfs:label "Aunjanue Ellis-Taylor" ;
+    owl:sameAs <http://dbpedia.org/resource/Aunjanue_Ellis-Taylor> .
+
+ex:Barbara_Bedford_(actress)
+    a ex:Actor ;
+    rdfs:label "Barbara Bedford" ;
+    owl:sameAs <http://dbpedia.org/resource/Barbara_Bedford_(actress)> .
+
+ex:Bella_Bordy
+    a ex:Actor ;
+    rdfs:label "Bella Bordy" ;
+    owl:sameAs <http://dbpedia.org/resource/Bella_Bordy> .
+
+ex:Beulah_Koale
+    a ex:Actor ;
+    rdfs:label "Beulah Koale" ;
+    owl:sameAs <http://dbpedia.org/resource/Beulah_Koale> .
+
+ex:Cameron_Cowperthwaite
+    a ex:Actor ;
+    rdfs:label "Cameron Cowperthwaite" ;
+    owl:sameAs <http://dbpedia.org/resource/Cameron_Cowperthwaite> .
+
+ex:Carl_Gilliard
+    a ex:Actor ;
+    rdfs:label "Carl Gilliard" ;
+    owl:sameAs <http://dbpedia.org/resource/Carl_Gilliard> .
+
+ex:Carlos_Muñoz_(actor)
+    a ex:Actor ;
+    rdfs:label "Carlos Muñoz" ;
+    owl:sameAs <http://dbpedia.org/resource/Carlos_Muñoz_(actor)> .
+
+ex:Carol_Kane
+    a ex:Actor ;
+    rdfs:label "Carol Kane" ;
+    owl:sameAs <http://dbpedia.org/resource/Carol_Kane> .
+
+ex:Caroline_Aaron
+    a ex:Actor ;
+    rdfs:label "Caroline Aaron" ;
+    owl:sameAs <http://dbpedia.org/resource/Caroline_Aaron> .
+
+ex:Catherine_Brunet
+    a ex:Actor ;
+    rdfs:label "Catherine Brunet" ;
+    owl:sameAs <http://dbpedia.org/resource/Catherine_Brunet> .
+
+ex:Charles_Okafor
+    a ex:Actor ;
+    rdfs:label "Charles Okafor" ;
+    owl:sameAs <http://dbpedia.org/resource/Charles_Okafor> .
+
+ex:Chaz_Bono
+    a ex:Actor ;
+    rdfs:label "Chaz Bono" ;
+    owl:sameAs <http://dbpedia.org/resource/Chaz_Bono> .
+
+ex:Chimezie_Imo
+    a ex:Actor ;
+    rdfs:label "Chimezie Imo" ;
+    owl:sameAs <http://dbpedia.org/resource/Chimezie_Imo> .
+
+ex:Chiwetalu_Agu
+    a ex:Actor ;
+    rdfs:label "Chiwetalu Agu" ;
+    owl:sameAs <http://dbpedia.org/resource/Chiwetalu_Agu> .
+
+ex:Chris_Petrovski
+    a ex:Actor ;
+    rdfs:label "Chris Petrovski" ;
+    owl:sameAs <http://dbpedia.org/resource/Chris_Petrovski> .
+
+ex:Claudia_Sulewski
+    a ex:Actor ;
+    rdfs:label "Claudia Sulewski" ;
+    owl:sameAs <http://dbpedia.org/resource/Claudia_Sulewski> .
+
+ex:Cornelius_Keefe
+    a ex:Actor ;
+    rdfs:label "Cornelius Keefe" ;
+    owl:sameAs <http://dbpedia.org/resource/Cornelius_Keefe> .
+
+ex:Crisol_Carabal
+    a ex:Actor ;
+    rdfs:label "Crisol Carabal" ;
+    owl:sameAs <http://dbpedia.org/resource/Crisol_Carabal> .
+
+ex:Daniel_Auteuil
+    a ex:Actor ;
+    rdfs:label "Daniel Auteuil" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Auteuil> .
+
+ex:Daniel_Bernhardt
+    a ex:Actor ;
+    rdfs:label "Daniel Bernhardt" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Bernhardt> .
+
+ex:Daniel_Brühl
+    a ex:Actor ;
+    rdfs:label "Daniel Brühl" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Brühl> .
+
+ex:Daniel_Oreskes
+    a ex:Actor ;
+    rdfs:label "Daniel Oreskes" ;
+    owl:sameAs <http://dbpedia.org/resource/Daniel_Oreskes> .
+
+ex:Darren_Gilshenan
+    a ex:Actor ;
+    rdfs:label "Darren Gilshenan" ;
+    owl:sameAs <http://dbpedia.org/resource/Darren_Gilshenan> .
+
+ex:Devery_Jacobs
+    a ex:Actor ;
+    rdfs:label "Devery Jacobs" ;
+    owl:sameAs <http://dbpedia.org/resource/Devery_Jacobs> .
+
+ex:Diana_Ringo
+    a ex:Actor ;
+    rdfs:label "Diana Ringo" ;
+    owl:sameAs <http://dbpedia.org/resource/Diana_Ringo> .
+
+ex:Dion_Wiyoko
+    a ex:Actor ;
+    rdfs:label "Dion Wiyoko" ;
+    owl:sameAs <http://dbpedia.org/resource/Dion_Wiyoko> .
+
+ex:Dolly_de_Leon
+    a ex:Actor ;
+    rdfs:label "Dolly de Leon" ;
+    owl:sameAs <http://dbpedia.org/resource/Dolly_de_Leon> .
+
+ex:Dwi_Sasono
+    a ex:Actor ;
+    rdfs:label "Dwi Sasono" ;
+    owl:sameAs <http://dbpedia.org/resource/Dwi_Sasono> .
+
+ex:Eiza_González
+    a ex:Actor ;
+    rdfs:label "Eiza González" ;
+    owl:sameAs <http://dbpedia.org/resource/Eiza_González> .
+
+ex:Eku_Edewor
+    a ex:Actor ;
+    rdfs:label "Eku Edewor" ;
+    owl:sameAs <http://dbpedia.org/resource/Eku_Edewor> .
+
+ex:Emmanuelle_Devos
+    a ex:Actor ;
+    rdfs:label "Emmanuelle Devos" ;
+    owl:sameAs <http://dbpedia.org/resource/Emmanuelle_Devos> .
+
+ex:Ennis_Esmer
+    a ex:Actor ;
+    rdfs:label "Ennis Esmer" ;
+    owl:sameAs <http://dbpedia.org/resource/Ennis_Esmer> .
+
+ex:Erzsi_Somogyi
+    a ex:Actor ;
+    rdfs:label "Erzsi Somogyi" ;
+    owl:sameAs <http://dbpedia.org/resource/Erzsi_Somogyi> .
+
+ex:Eugene_Domingo
+    a ex:Actor ;
+    rdfs:label "Eugene Domingo" ;
+    owl:sameAs <http://dbpedia.org/resource/Eugene_Domingo> .
+
+ex:Felix_Kammerer
+    a ex:Actor ;
+    rdfs:label "Felix Kammerer" ;
+    owl:sameAs <http://dbpedia.org/resource/Felix_Kammerer> .
+
+ex:Ferenc_Bessenyei
+    a ex:Actor ;
+    rdfs:label "Ferenc Bessenyei" ;
+    owl:sameAs <http://dbpedia.org/resource/Ferenc_Bessenyei> .
+
+ex:Ferenc_Kiss_(actor)
+    a ex:Actor ;
+    rdfs:label "Ferenc Kiss" ;
+    owl:sameAs <http://dbpedia.org/resource/Ferenc_Kiss_(actor)> .
+
+ex:Ferenc_Ladányi
+    a ex:Actor ;
+    rdfs:label "Ferenc Ladányi" ;
+    owl:sameAs <http://dbpedia.org/resource/Ferenc_Ladányi> .
+
+ex:Flying_Lotus
+    a ex:Actor ;
+    rdfs:label "Flying Lotus" ;
+    owl:sameAs <http://dbpedia.org/resource/Flying_Lotus> .
+
+ex:Franz_Herterich
+    a ex:Actor ;
+    rdfs:label "Franz Herterich" ;
+    owl:sameAs <http://dbpedia.org/resource/Franz_Herterich> .
+
+ex:Funke_Akindele
+    a ex:Actor ;
+    rdfs:label "Funke Akindele" ;
+    owl:sameAs <http://dbpedia.org/resource/Funke_Akindele> .
+
+ex:Geneviève_Schmidt
+    a ex:Actor ;
+    rdfs:label "Geneviève Schmidt" ;
+    owl:sameAs <http://dbpedia.org/resource/Geneviève_Schmidt> .
+
+ex:Genoveva_Umeh
+    a ex:Actor ;
+    rdfs:label "Genoveva Umeh" ;
+    owl:sameAs <http://dbpedia.org/resource/Genoveva_Umeh> .
+
+ex:Gerő_Mály
+    a ex:Actor ;
+    rdfs:label "Gerő Mály" ;
+    owl:sameAs <http://dbpedia.org/resource/Gerő_Mály> .
+
+ex:Guillaume_Cyr
+    a ex:Actor ;
+    rdfs:label "Guillaume Cyr" ;
+    owl:sameAs <http://dbpedia.org/resource/Guillaume_Cyr> .
+
+ex:Gyula_Gózon
+    a ex:Actor ;
+    rdfs:label "Gyula Gózon" ;
+    owl:sameAs <http://dbpedia.org/resource/Gyula_Gózon> .
+
+ex:Gyula_Kabos
+    a ex:Actor ;
+    rdfs:label "Gyula Kabos" ;
+    owl:sameAs <http://dbpedia.org/resource/Gyula_Kabos> .
+
+ex:Gábor_Rajnay
+    a ex:Actor ;
+    rdfs:label "Gábor Rajnay" ;
+    owl:sameAs <http://dbpedia.org/resource/Gábor_Rajnay> .
+
+ex:Harris_Dickinson
+    a ex:Actor ;
+    rdfs:label "Harris Dickinson" ;
+    owl:sameAs <http://dbpedia.org/resource/Harris_Dickinson> .
+
+ex:Heather_Graham
+    a ex:Actor ;
+    rdfs:label "Heather Graham" ;
+    owl:sameAs <http://dbpedia.org/resource/Heather_Graham> .
+
+ex:Heidemarie_Hatheyer
+    a ex:Actor ;
+    rdfs:label "Heidemarie Hatheyer" ;
+    owl:sameAs <http://dbpedia.org/resource/Heidemarie_Hatheyer> .
+
+ex:Helena_Bušová
+    a ex:Actor ;
+    rdfs:label "Helena Bušová" ;
+    owl:sameAs <http://dbpedia.org/resource/Helena_Bušová> .
+
+ex:Hemal_Ingle
+    a ex:Actor ;
+    rdfs:label "Hemal Ingle" ;
+    owl:sameAs <http://dbpedia.org/resource/Hemal_Ingle> .
+
+ex:Holly_Mae_Brood
+    a ex:Actor ;
+    rdfs:label "Holly Mae Brood" ;
+    owl:sameAs <http://dbpedia.org/resource/Holly_Mae_Brood> .
+
+ex:Huub_Stapel
+    a ex:Actor ;
+    rdfs:label "Huub Stapel" ;
+    owl:sameAs <http://dbpedia.org/resource/Huub_Stapel> .
+
+ex:Iko_Uwais
+    a ex:Actor ;
+    rdfs:label "Iko Uwais" ;
+    owl:sameAs <http://dbpedia.org/resource/Iko_Uwais> .
+
+ex:Imre_Apáthi
+    a ex:Actor ;
+    rdfs:label "Imre Apáthi" ;
+    owl:sameAs <http://dbpedia.org/resource/Imre_Apáthi> .
+
+ex:Imre_Hámory
+    a ex:Actor ;
+    rdfs:label "Imre Hámory" ;
+    owl:sameAs <http://dbpedia.org/resource/Imre_Hámory> .
+
+ex:Imre_Ráday
+    a ex:Actor ;
+    rdfs:label "Imre Ráday" ;
+    owl:sameAs <http://dbpedia.org/resource/Imre_Ráday> .
+
+ex:Imre_Sinkovits
+    a ex:Actor ;
+    rdfs:label "Imre Sinkovits" ;
+    owl:sameAs <http://dbpedia.org/resource/Imre_Sinkovits> .
+
+ex:Indira_Tiwari
+    a ex:Actor ;
+    rdfs:label "Indira Tiwari" ;
+    owl:sameAs <http://dbpedia.org/resource/Indira_Tiwari> .
+
+ex:Indrans
+    a ex:Actor ;
+    rdfs:label "Indrans" ;
+    owl:sameAs <http://dbpedia.org/resource/Indrans> .
+
+ex:Irén_Psota
+    a ex:Actor ;
+    rdfs:label "Irén Psota" ;
+    owl:sameAs <http://dbpedia.org/resource/Irén_Psota> .
+
+ex:Irén_Ágay
+    a ex:Actor ;
+    rdfs:label "Irén Ágay" ;
+    owl:sameAs <http://dbpedia.org/resource/Irén_Ágay> .
+
+ex:Isabel_de_Pomés
+    a ex:Actor ;
+    rdfs:label "Isabel de Pomés" ;
+    owl:sameAs <http://dbpedia.org/resource/Isabel_de_Pomés> .
+
+ex:Ishtiyak_Khan
+    a ex:Actor ;
+    rdfs:label "Ishtiyak Khan" ;
+    owl:sameAs <http://dbpedia.org/resource/Ishtiyak_Khan> .
+
+ex:Issei_Sagawa
+    a ex:Actor ;
+    rdfs:label "Issei Sagawa" ;
+    owl:sameAs <http://dbpedia.org/resource/Issei_Sagawa> .
+
+ex:István_Nagy_(actor)
+    a ex:Actor ;
+    rdfs:label "István Nagy" ;
+    owl:sameAs <http://dbpedia.org/resource/István_Nagy_(actor)> .
+
+ex:Iván_Darvas
+    a ex:Actor ;
+    rdfs:label "Iván Darvas" ;
+    owl:sameAs <http://dbpedia.org/resource/Iván_Darvas> .
+
+ex:Izaac_Wang
+    a ex:Actor ;
+    rdfs:label "Izaac Wang" ;
+    owl:sameAs <http://dbpedia.org/resource/Izaac_Wang> .
+
+ex:Jaffar_Idukki
+    a ex:Actor ;
+    rdfs:label "Jaffar Idukki" ;
+    owl:sameAs <http://dbpedia.org/resource/Jaffar_Idukki> .
+
+ex:James_Faulkner_(actor)
+    a ex:Actor ;
+    rdfs:label "James Faulkner" ;
+    owl:sameAs <http://dbpedia.org/resource/James_Faulkner_(actor)> .
+
+ex:Jamie_Lever
+    a ex:Actor ;
+    rdfs:label "Jamie Lever" ;
+    owl:sameAs <http://dbpedia.org/resource/Jamie_Lever> .
+
+ex:Jaroslav_Průcha
+    a ex:Actor ;
+    rdfs:label "Jaroslav Průcha" ;
+    owl:sameAs <http://dbpedia.org/resource/Jaroslav_Průcha> .
+
+ex:Jason_Schwartzman
+    a ex:Actor ;
+    rdfs:label "Jason Schwartzman" ;
+    owl:sameAs <http://dbpedia.org/resource/Jason_Schwartzman> .
+
+ex:Jennifer_Grey
+    a ex:Actor ;
+    rdfs:label "Jennifer Grey" ;
+    owl:sameAs <http://dbpedia.org/resource/Jennifer_Grey> .
+
+ex:Jesse_Eisenberg
+    a ex:Actor ;
+    rdfs:label "Jesse Eisenberg" ;
+    owl:sameAs <http://dbpedia.org/resource/Jesse_Eisenberg> .
+
+ex:Jitendra_Kumar
+    a ex:Actor ;
+    rdfs:label "Jitendra Kumar" ;
+    owl:sameAs <http://dbpedia.org/resource/Jitendra_Kumar> .
+
+ex:Joan_Chen
+    a ex:Actor ;
+    rdfs:label "Joan Chen" ;
+    owl:sameAs <http://dbpedia.org/resource/Joan_Chen> .
+
+ex:John_Brotherton
+    a ex:Actor ;
+    rdfs:label "John Brotherton" ;
+    owl:sameAs <http://dbpedia.org/resource/John_Brotherton> .
+
+ex:John_Earl_Jelks
+    a ex:Actor ;
+    rdfs:label "John Earl Jelks" ;
+    owl:sameAs <http://dbpedia.org/resource/John_Earl_Jelks> .
+
+ex:Joseph_Engel
+    a ex:Actor ;
+    rdfs:label "Joseph Engel" ;
+    owl:sameAs <http://dbpedia.org/resource/Joseph_Engel> .
+
+ex:José_Ramón_Barreto
+    a ex:Actor ;
+    rdfs:label "José Ramón Barreto" ;
+    owl:sameAs <http://dbpedia.org/resource/José_Ramón_Barreto> .
+
+ex:Jude_Law
+    a ex:Actor ;
+    rdfs:label "Jude Law" ;
+    owl:sameAs <http://dbpedia.org/resource/Jude_Law> .
+
+ex:Julia_Stiles
+    a ex:Actor ;
+    rdfs:label "Julia Stiles" ;
+    owl:sameAs <http://dbpedia.org/resource/Julia_Stiles> .
+
+ex:Julie_Estelle
+    a ex:Actor ;
+    rdfs:label "Julie Estelle" ;
+    owl:sameAs <http://dbpedia.org/resource/Julie_Estelle> .
+
+ex:Julie_Halston
+    a ex:Actor ;
+    rdfs:label "Julie Halston" ;
+    owl:sameAs <http://dbpedia.org/resource/Julie_Halston> .
+
+ex:János_Sárdy
+    a ex:Actor ;
+    rdfs:label "János Sárdy" ;
+    owl:sameAs <http://dbpedia.org/resource/János_Sárdy> .
+
+ex:József_Bihari
+    a ex:Actor ;
+    rdfs:label "József Bihari" ;
+    owl:sameAs <http://dbpedia.org/resource/József_Bihari> .
+
+ex:K._S._Ravikumar
+    a ex:Actor ;
+    rdfs:label "K. S. Ravikumar" ;
+    owl:sameAs <http://dbpedia.org/resource/K._S._Ravikumar> .
+
+ex:Karine_Gonthier-Hyndman
+    a ex:Actor ;
+    rdfs:label "Karine Gonthier-Hyndman" ;
+    owl:sameAs <http://dbpedia.org/resource/Karine_Gonthier-Hyndman> .
+
+ex:Karla_Sofía_Gascón
+    a ex:Actor ;
+    rdfs:label "Karla Sofía Gascón" ;
+    owl:sameAs <http://dbpedia.org/resource/Karla_Sofía_Gascón> .
+
+ex:Katalin_Karády
+    a ex:Actor ;
+    rdfs:label "Katalin Karády" ;
+    owl:sameAs <http://dbpedia.org/resource/Katalin_Karády> .
+
+ex:Kate_Elliott_(actress)
+    a ex:Actor ;
+    rdfs:label "Kate Elliott" ;
+    owl:sameAs <http://dbpedia.org/resource/Kate_Elliott_(actress)> .
+
+ex:Katie_Ryan
+    a ex:Actor ;
+    rdfs:label "Katie Ryan" ;
+    owl:sameAs <http://dbpedia.org/resource/Katie_Ryan> .
+
+ex:Keith_Machekanyanga
+    a ex:Actor ;
+    rdfs:label "Keith Machekanyanga" ;
+    owl:sameAs <http://dbpedia.org/resource/Keith_Machekanyanga> .
+
+ex:Kieran_Culkin
+    a ex:Actor ;
+    rdfs:label "Kieran Culkin" ;
+    owl:sameAs <http://dbpedia.org/resource/Kieran_Culkin> .
+
+ex:Kishori_Shahane
+    a ex:Actor ;
+    rdfs:label "Kishori Shahane" ;
+    owl:sameAs <http://dbpedia.org/resource/Kishori_Shahane> .
+
+ex:Klári_Tolnay
+    a ex:Actor ;
+    rdfs:label "Klári Tolnay" ;
+    owl:sameAs <http://dbpedia.org/resource/Klári_Tolnay> .
+
+ex:Kristýna_Jedličková
+    a ex:Actor ;
+    rdfs:label "Kristýna Jedličková" ;
+    owl:sameAs <http://dbpedia.org/resource/Kristýna_Jedličková> .
+
+ex:Krsy_Fox
+    a ex:Actor ;
+    rdfs:label "Krsy Fox" ;
+    owl:sameAs <http://dbpedia.org/resource/Krsy_Fox> .
+
+ex:Kurt_Egyiawan
+    a ex:Actor ;
+    rdfs:label "Kurt Egyiawan" ;
+    owl:sameAs <http://dbpedia.org/resource/Kurt_Egyiawan> .
+
+ex:Kálmán_Latabár
+    a ex:Actor ;
+    rdfs:label "Kálmán Latabár" ;
+    owl:sameAs <http://dbpedia.org/resource/Kálmán_Latabár> .
+
+ex:Lajos_Básti
+    a ex:Actor ;
+    rdfs:label "Lajos Básti" ;
+    owl:sameAs <http://dbpedia.org/resource/Lajos_Básti> .
+
+ex:Lauren_Elizabeth_(YouTuber)
+    a ex:Actor ;
+    rdfs:label "Lauren Elizabeth (YouTuber)" ;
+    owl:sameAs <http://dbpedia.org/resource/Lauren_Elizabeth_(YouTuber)> .
+
+ex:Laxmikant_Berde
+    a ex:Actor ;
+    rdfs:label "Laxmikant Berde" ;
+    owl:sameAs <http://dbpedia.org/resource/Laxmikant_Berde> .
+
+ex:Lil_Rel_Howery
+    a ex:Actor ;
+    rdfs:label "Lil Rel Howery" ;
+    owl:sameAs <http://dbpedia.org/resource/Lil_Rel_Howery> .
+
+ex:Lili_Berky
+    a ex:Actor ;
+    rdfs:label "Lili Berky" ;
+    owl:sameAs <http://dbpedia.org/resource/Lili_Berky> .
+
+ex:Liza_Sadovy
+    a ex:Actor ;
+    rdfs:label "Liza Sadovy" ;
+    owl:sameAs <http://dbpedia.org/resource/Liza_Sadovy> .
+
+ex:Luciana_Tomášová
+    a ex:Actor ;
+    rdfs:label "Luciana Tomášová" ;
+    owl:sameAs <http://dbpedia.org/resource/Luciana_Tomášová> .
+
+ex:Lukas_Gage
+    a ex:Actor ;
+    rdfs:label "Lukas Gage" ;
+    owl:sameAs <http://dbpedia.org/resource/Lukas_Gage> .
+
+ex:Lyra_Hill
+    a ex:Actor ;
+    rdfs:label "Lyra Hill" ;
+    owl:sameAs <http://dbpedia.org/resource/Lyra_Hill> .
+
+ex:László_Bánhidi
+    a ex:Actor ;
+    rdfs:label "László Bánhidi" ;
+    owl:sameAs <http://dbpedia.org/resource/László_Bánhidi> .
+
+ex:László_Mensáros
+    a ex:Actor ;
+    rdfs:label "László Mensáros" ;
+    owl:sameAs <http://dbpedia.org/resource/László_Mensáros> .
+
+ex:László_Szilassy
+    a ex:Actor ;
+    rdfs:label "László Szilassy" ;
+    owl:sameAs <http://dbpedia.org/resource/László_Szilassy> .
+
+ex:Madeline_Weinstein
+    a ex:Actor ;
+    rdfs:label "Madeline Weinstein" ;
+    owl:sameAs <http://dbpedia.org/resource/Madeline_Weinstein> .
+
+ex:Magda_Kun
+    a ex:Actor ;
+    rdfs:label "Magda Kun" ;
+    owl:sameAs <http://dbpedia.org/resource/Magda_Kun> .
+
+ex:Margit_Bara
+    a ex:Actor ;
+    rdfs:label "Margit Bara" ;
+    owl:sameAs <http://dbpedia.org/resource/Margit_Bara> .
+
+ex:Margit_Dajka
+    a ex:Actor ;
+    rdfs:label "Margit Dajka" ;
+    owl:sameAs <http://dbpedia.org/resource/Margit_Dajka> .
+
+ex:Margit_Symo
+    a ex:Actor ;
+    rdfs:label "Margit Symo" ;
+    owl:sameAs <http://dbpedia.org/resource/Margit_Symo> .
+
+ex:Margit_Zsilley
+    a ex:Actor ;
+    rdfs:label "Margit Zsilley" ;
+    owl:sameAs <http://dbpedia.org/resource/Margit_Zsilley> .
+
+ex:Mari_Törőcsik
+    a ex:Actor ;
+    rdfs:label "Mari Törőcsik" ;
+    owl:sameAs <http://dbpedia.org/resource/Mari_Törőcsik> .
+
+ex:Maria_von_Tasnady
+    a ex:Actor ;
+    rdfs:label "Maria von Tasnady" ;
+    owl:sameAs <http://dbpedia.org/resource/Maria_von_Tasnady> .
+
+ex:Mariska_Vízváry
+    a ex:Actor ;
+    rdfs:label "Mariska Vízváry" ;
+    owl:sameAs <http://dbpedia.org/resource/Mariska_Vízváry> .
+
+ex:Mark_Ivanir
+    a ex:Actor ;
+    rdfs:label "Mark Ivanir" ;
+    owl:sameAs <http://dbpedia.org/resource/Mark_Ivanir> .
+
+ex:Marshall_Napier
+    a ex:Actor ;
+    rdfs:label "Marshall Napier" ;
+    owl:sameAs <http://dbpedia.org/resource/Marshall_Napier> .
+
+ex:Martina_Jindrová
+    a ex:Actor ;
+    rdfs:label "Martina Jindrová" ;
+    owl:sameAs <http://dbpedia.org/resource/Martina_Jindrová> .
+
+ex:Matthew_Shear
+    a ex:Actor ;
+    rdfs:label "Matthew Shear" ;
+    owl:sameAs <http://dbpedia.org/resource/Matthew_Shear> .
+
+ex:Meredith_MacNeill
+    a ex:Actor ;
+    rdfs:label "Meredith MacNeill" ;
+    owl:sameAs <http://dbpedia.org/resource/Meredith_MacNeill> .
+
+ex:Michael_Gross_(actor)
+    a ex:Actor ;
+    rdfs:label "Michael Gross" ;
+    owl:sameAs <http://dbpedia.org/resource/Michael_Gross_(actor)> .
+
+ex:Mici_Erdélyi
+    a ex:Actor ;
+    rdfs:label "Mici Erdélyi" ;
+    owl:sameAs <http://dbpedia.org/resource/Mici_Erdélyi> .
+
+ex:Middle_Kids
+    a ex:Actor ;
+    rdfs:label "Middle Kids" ;
+    owl:sameAs <http://dbpedia.org/resource/Middle_Kids> .
+
+ex:Miklós_Gábor
+    a ex:Actor ;
+    rdfs:label "Miklós Gábor" ;
+    owl:sameAs <http://dbpedia.org/resource/Miklós_Gábor> .
+
+ex:Mimi_Gianopulos
+    a ex:Actor ;
+    rdfs:label "Mimi Gianopulos" ;
+    owl:sameAs <http://dbpedia.org/resource/Mimi_Gianopulos> .
+
+ex:Monia_Chokri
+    a ex:Actor ;
+    rdfs:label "Monia Chokri" ;
+    owl:sameAs <http://dbpedia.org/resource/Monia_Chokri> .
+
+ex:Mária_Egry
+    a ex:Actor ;
+    rdfs:label "Mária Egry" ;
+    owl:sameAs <http://dbpedia.org/resource/Mária_Egry> .
+
+ex:Mária_Lázár
+    a ex:Actor ;
+    rdfs:label "Mária Lázár" ;
+    owl:sameAs <http://dbpedia.org/resource/Mária_Lázár> .
+
+ex:Mária_Mezei
+    a ex:Actor ;
+    rdfs:label "Mária Mezei" ;
+    owl:sameAs <http://dbpedia.org/resource/Mária_Mezei> .
+
+ex:Mária_Sulyok
+    a ex:Actor ;
+    rdfs:label "Mária Sulyok" ;
+    owl:sameAs <http://dbpedia.org/resource/Mária_Sulyok> .
+
+ex:Nayantara_(Marathi_actress)
+    a ex:Actor ;
+    rdfs:label "Nayantara (Marathi actress)" ;
+    owl:sameAs <http://dbpedia.org/resource/Nayantara_(Marathi_actress)> .
+
+ex:Nick_Moran
+    a ex:Actor ;
+    rdfs:label "Nick Moran" ;
+    owl:sameAs <http://dbpedia.org/resource/Nick_Moran> .
+
+ex:Nicole_Kidman
+    a ex:Actor ;
+    rdfs:label "Nicole Kidman" ;
+    owl:sameAs <http://dbpedia.org/resource/Nicole_Kidman> .
+
+ex:Nimisha_Sajayan
+    a ex:Actor ;
+    rdfs:label "Nimisha Sajayan" ;
+    owl:sameAs <http://dbpedia.org/resource/Nimisha_Sajayan> .
+
+ex:Nirina_Zubir
+    a ex:Actor ;
+    rdfs:label "Nirina Zubir" ;
+    owl:sameAs <http://dbpedia.org/resource/Nirina_Zubir> .
+
+ex:Nivedita_Saraf
+    a ex:Actor ;
+    rdfs:label "Nivedita Saraf" ;
+    owl:sameAs <http://dbpedia.org/resource/Nivedita_Saraf> .
+
+ex:Nora_Fatehi
+    a ex:Actor ;
+    rdfs:label "Nora Fatehi" ;
+    owl:sameAs <http://dbpedia.org/resource/Nora_Fatehi> .
+
+ex:Olga_Chekhova
+    a ex:Actor ;
+    rdfs:label "Olga Chekhova" ;
+    owl:sameAs <http://dbpedia.org/resource/Olga_Chekhova> .
+
+ex:Olga_Kurylenko
+    a ex:Actor ;
+    rdfs:label "Olga Kurylenko" ;
+    owl:sameAs <http://dbpedia.org/resource/Olga_Kurylenko> .
+
+ex:Olumide_Oworu
+    a ex:Actor ;
+    rdfs:label "Olumide Oworu" ;
+    owl:sameAs <http://dbpedia.org/resource/Olumide_Oworu> .
+
+ex:Omowumi_Dada
+    a ex:Actor ;
+    rdfs:label "Omowumi Dada" ;
+    owl:sameAs <http://dbpedia.org/resource/Omowumi_Dada> .
+
+ex:Page_Kennedy
+    a ex:Actor ;
+    rdfs:label "Page Kennedy" ;
+    owl:sameAs <http://dbpedia.org/resource/Page_Kennedy> .
+
+ex:Paola_Barbara
+    a ex:Actor ;
+    rdfs:label "Paola Barbara" ;
+    owl:sameAs <http://dbpedia.org/resource/Paola_Barbara> .
+
+ex:Pascale_Bussières
+    a ex:Actor ;
+    rdfs:label "Pascale Bussières" ;
+    owl:sameAs <http://dbpedia.org/resource/Pascale_Bussières> .
+
+ex:Patra_Au
+    a ex:Actor ;
+    rdfs:label "Patra Au" ;
+    owl:sameAs <http://dbpedia.org/resource/Patra_Au> .
+
+ex:Paul_Reid_(actor)
+    a ex:Actor ;
+    rdfs:label "Paul Reid" ;
+    owl:sameAs <http://dbpedia.org/resource/Paul_Reid_(actor)> .
+
+ex:Petr_Uhlík
+    a ex:Actor ;
+    rdfs:label "Petr Uhlík" ;
+    owl:sameAs <http://dbpedia.org/resource/Petr_Uhlík> .
+
+ex:Pierre_Bokma
+    a ex:Actor ;
+    rdfs:label "Pierre Bokma" ;
+    owl:sameAs <http://dbpedia.org/resource/Pierre_Bokma> .
+
+ex:Piri_Vaszary
+    a ex:Actor ;
+    rdfs:label "Piri Vaszary" ;
+    owl:sameAs <http://dbpedia.org/resource/Piri_Vaszary> .
+
+ex:Pokwang
+    a ex:Actor ;
+    rdfs:label "Pokwang" ;
+    owl:sameAs <http://dbpedia.org/resource/Pokwang> .
+
+ex:Pooja_Sawant
+    a ex:Actor ;
+    rdfs:label "Pooja Sawant" ;
+    owl:sameAs <http://dbpedia.org/resource/Pooja_Sawant> .
+
+ex:Prilly_Latuconsina
+    a ex:Actor ;
+    rdfs:label "Prilly Latuconsina" ;
+    owl:sameAs <http://dbpedia.org/resource/Prilly_Latuconsina> .
+
+ex:Pál_Jávor_(actor)
+    a ex:Actor ;
+    rdfs:label "Pál Jávor" ;
+    owl:sameAs <http://dbpedia.org/resource/Pál_Jávor_(actor)> .
+
+ex:R._Sundarrajan
+    a ex:Actor ;
+    rdfs:label "R. Sundarrajan" ;
+    owl:sameAs <http://dbpedia.org/resource/R._Sundarrajan> .
+
+ex:Rachel_House
+    a ex:Actor ;
+    rdfs:label "Rachel House" ;
+    owl:sameAs <http://dbpedia.org/resource/Rachel_House> .
+
+ex:Radhika_Preethi
+    a ex:Actor ;
+    rdfs:label "Radhika Preethi" ;
+    owl:sameAs <http://dbpedia.org/resource/Radhika_Preethi> .
+
+ex:Rainn_Wilson
+    a ex:Actor ;
+    rdfs:label "Rainn Wilson" ;
+    owl:sameAs <http://dbpedia.org/resource/Rainn_Wilson> .
+
+ex:Raja_Gosavi
+    a ex:Actor ;
+    rdfs:label "Raja Gosavi" ;
+    owl:sameAs <http://dbpedia.org/resource/Raja_Gosavi> .
+
+ex:Richard_Roxburgh
+    a ex:Actor ;
+    rdfs:label "Richard Roxburgh" ;
+    owl:sameAs <http://dbpedia.org/resource/Richard_Roxburgh> .
+
+ex:Ringgo_Agus_Rahman
+    a ex:Actor ;
+    rdfs:label "Ringgo Agus Rahman" ;
+    owl:sameAs <http://dbpedia.org/resource/Ringgo_Agus_Rahman> .
+
+ex:Rob_Riggle
+    a ex:Actor ;
+    rdfs:label "Rob Riggle" ;
+    owl:sameAs <http://dbpedia.org/resource/Rob_Riggle> .
+
+ex:Robert_Smigel
+    a ex:Actor ;
+    rdfs:label "Robert Smigel" ;
+    owl:sameAs <http://dbpedia.org/resource/Robert_Smigel> .
+
+ex:Roshan_Mathew
+    a ex:Actor ;
+    rdfs:label "Roshan Mathew" ;
+    owl:sameAs <http://dbpedia.org/resource/Roshan_Mathew> .
+
+ex:Rukmini_Maitra
+    a ex:Actor ;
+    rdfs:label "Rukmini Maitra" ;
+    owl:sameAs <http://dbpedia.org/resource/Rukmini_Maitra> .
+
+ex:Sam_Dede
+    a ex:Actor ;
+    rdfs:label "Sam Dede" ;
+    owl:sameAs <http://dbpedia.org/resource/Sam_Dede> .
+
+ex:Sanjay_Mishra_(actor)
+    a ex:Actor ;
+    rdfs:label "Sanjay Mishra" ;
+    owl:sameAs <http://dbpedia.org/resource/Sanjay_Mishra_(actor)> .
+
+ex:Santhanam_(actor)
+    a ex:Actor ;
+    rdfs:label "Santhanam" ;
+    owl:sameAs <http://dbpedia.org/resource/Santhanam_(actor)> .
+
+ex:Sara_Montpetit
+    a ex:Actor ;
+    rdfs:label "Sara Montpetit" ;
+    owl:sameAs <http://dbpedia.org/resource/Sara_Montpetit> .
+
+ex:Scout_Taylor-Compton
+    a ex:Actor ;
+    rdfs:label "Scout Taylor-Compton" ;
+    owl:sameAs <http://dbpedia.org/resource/Scout_Taylor-Compton> .
+
+ex:Selena_Gomez
+    a ex:Actor ;
+    rdfs:label "Selena Gomez" ;
+    owl:sameAs <http://dbpedia.org/resource/Selena_Gomez> .
+
+ex:Sha_Ine_Febriyanti
+    a ex:Actor ;
+    rdfs:label "Sha Ine Febriyanti" ;
+    owl:sameAs <http://dbpedia.org/resource/Sha_Ine_Febriyanti> .
+
+ex:Sheila_Dara_Aisha
+    a ex:Actor ;
+    rdfs:label "Sheila Dara Aisha" ;
+    owl:sameAs <http://dbpedia.org/resource/Sheila_Dara_Aisha> .
+
+ex:Shelley_Hennig
+    a ex:Actor ;
+    rdfs:label "Shelley Hennig" ;
+    owl:sameAs <http://dbpedia.org/resource/Shelley_Hennig> .
+
+ex:Shriya_Pilgaonkar
+    a ex:Actor ;
+    rdfs:label "Shriya Pilgaonkar" ;
+    owl:sameAs <http://dbpedia.org/resource/Shriya_Pilgaonkar> .
+
+ex:Sola_Sobowale
+    a ex:Actor ;
+    rdfs:label "Sola Sobowale" ;
+    owl:sameAs <http://dbpedia.org/resource/Sola_Sobowale> .
+
+ex:Sophie_Wilde
+    a ex:Actor ;
+    rdfs:label "Sophie Wilde" ;
+    owl:sameAs <http://dbpedia.org/resource/Sophie_Wilde> .
+
+ex:Steve_Le_Marquand
+    a ex:Actor ;
+    rdfs:label "Steve Le Marquand" ;
+    owl:sameAs <http://dbpedia.org/resource/Steve_Le_Marquand> .
+
+ex:Steven_Geray
+    a ex:Actor ;
+    rdfs:label "Steven Geray" ;
+    owl:sameAs <http://dbpedia.org/resource/Steven_Geray> .
+
+ex:Sudhir_Joshi
+    a ex:Actor ;
+    rdfs:label "Sudhir Joshi" ;
+    owl:sameAs <http://dbpedia.org/resource/Sudhir_Joshi> .
+
+ex:Swanky_JKA
+    a ex:Actor ;
+    rdfs:label "Swanky JKA" ;
+    owl:sameAs <http://dbpedia.org/resource/Swanky_JKA> .
+
+ex:Swasika
+    a ex:Actor ;
+    rdfs:label "Swasika" ;
+    owl:sameAs <http://dbpedia.org/resource/Swasika> .
+
+ex:Sydney_Sweeney
+    a ex:Actor ;
+    rdfs:label "Sydney Sweeney" ;
+    owl:sameAs <http://dbpedia.org/resource/Sydney_Sweeney> .
+
+ex:Symon_Sadik
+    a ex:Actor ;
+    rdfs:label "Symon Sadik" ;
+    owl:sameAs <http://dbpedia.org/resource/Symon_Sadik> .
+
+ex:Sándor_Deák
+    a ex:Actor ;
+    rdfs:label "Sándor Deák" ;
+    owl:sameAs <http://dbpedia.org/resource/Sándor_Deák> .
+
+ex:Sándor_Szabó_(actor)
+    a ex:Actor ;
+    rdfs:label "Sándor Szabó" ;
+    owl:sameAs <http://dbpedia.org/resource/Sándor_Szabó_(actor)> .
+
+ex:Tadeáš_Moravec
+    a ex:Actor ;
+    rdfs:label "Tadeáš Moravec" ;
+    owl:sameAs <http://dbpedia.org/resource/Tadeáš_Moravec> .
+
+ex:Ted_Tremper
+    a ex:Actor ;
+    rdfs:label "Ted Tremper" ;
+    owl:sameAs <http://dbpedia.org/resource/Ted_Tremper> .
+
+ex:Thomas_Lennon
+    a ex:Actor ;
+    rdfs:label "Thomas Lennon" ;
+    owl:sameAs <http://dbpedia.org/resource/Thomas_Lennon> .
+
+ex:Tibor_Bitskey
+    a ex:Actor ;
+    rdfs:label "Tibor Bitskey" ;
+    owl:sameAs <http://dbpedia.org/resource/Tibor_Bitskey> .
+
+ex:Tibor_Halmay
+    a ex:Actor ;
+    rdfs:label "Tibor Halmay" ;
+    owl:sameAs <http://dbpedia.org/resource/Tibor_Halmay> .
+
+ex:Tibor_Molnár
+    a ex:Actor ;
+    rdfs:label "Tibor Molnár" ;
+    owl:sameAs <http://dbpedia.org/resource/Tibor_Molnár> .
+
+ex:Timini_Egbuson
+    a ex:Actor ;
+    rdfs:label "Timini Egbuson" ;
+    owl:sameAs <http://dbpedia.org/resource/Timini_Egbuson> .
+
+ex:Tivadar_Uray
+    a ex:Actor ;
+    rdfs:label "Tivadar Uray" ;
+    owl:sameAs <http://dbpedia.org/resource/Tivadar_Uray> .
+
+ex:Tobi_Makinde
+    a ex:Actor ;
+    rdfs:label "Tobi Makinde" ;
+    owl:sameAs <http://dbpedia.org/resource/Tobi_Makinde> .
+
+ex:Toby_Wallace
+    a ex:Actor ;
+    rdfs:label "Toby Wallace" ;
+    owl:sameAs <http://dbpedia.org/resource/Toby_Wallace> .
+
+ex:Tovino_Thomas
+    a ex:Actor ;
+    rdfs:label "Tovino Thomas" ;
+    owl:sameAs <http://dbpedia.org/resource/Tovino_Thomas> .
+
+ex:Uzee_Usman
+    a ex:Actor ;
+    rdfs:label "Uzee Usman" ;
+    owl:sameAs <http://dbpedia.org/resource/Uzee_Usman> .
+
+ex:Valerie_Delacorte
+    a ex:Actor ;
+    rdfs:label "Valerie Delacorte" ;
+    owl:sameAs <http://dbpedia.org/resource/Valerie_Delacorte> .
+
+ex:Vanessa_Kirby
+    a ex:Actor ;
+    rdfs:label "Vanessa Kirby" ;
+    owl:sameAs <http://dbpedia.org/resource/Vanessa_Kirby> .
+
+ex:Vera_Sennyei
+    a ex:Actor ;
+    rdfs:label "Vera Sennyei" ;
+    owl:sameAs <http://dbpedia.org/resource/Vera_Sennyei> .
+
+ex:Vidyut_Jammwal
+    a ex:Actor ;
+    rdfs:label "Vidyut Jammwal" ;
+    owl:sameAs <http://dbpedia.org/resource/Vidyut_Jammwal> .
+
+ex:Viju_Khote
+    a ex:Actor ;
+    rdfs:label "Viju Khote" ;
+    owl:sameAs <http://dbpedia.org/resource/Viju_Khote> .
+
+ex:Violetta_Ferrari
+    a ex:Actor ;
+    rdfs:label "Violetta Ferrari" ;
+    owl:sameAs <http://dbpedia.org/resource/Violetta_Ferrari> .
+
+ex:Vítězslav_Boček
+    a ex:Actor ;
+    rdfs:label "Vítězslav Boček" ;
+    owl:sameAs <http://dbpedia.org/resource/Vítězslav_Boček> .
+
+ex:Wale_Ojo
+    a ex:Actor ;
+    rdfs:label "Wale Ojo" ;
+    owl:sameAs <http://dbpedia.org/resource/Wale_Ojo> .
+
+ex:Walter_Steinbeck
+    a ex:Actor ;
+    rdfs:label "Walter Steinbeck" ;
+    owl:sameAs <http://dbpedia.org/resource/Walter_Steinbeck> .
+
+ex:Will_Sharpe
+    a ex:Actor ;
+    rdfs:label "Will Sharpe" ;
+    owl:sameAs <http://dbpedia.org/resource/Will_Sharpe> .
+
+ex:Yvette_Nicole_Brown
+    a ex:Actor ;
+    rdfs:label "Yvette Nicole Brown" ;
+    owl:sameAs <http://dbpedia.org/resource/Yvette_Nicole_Brown> .
+
+ex:Zita_Perczel
+    a ex:Actor ;
+    rdfs:label "Zita Perczel" ;
+    owl:sameAs <http://dbpedia.org/resource/Zita_Perczel> .
+
+ex:Zoe_Saldaña
+    a ex:Actor ;
+    rdfs:label "Zoe Saldaña" ;
+    owl:sameAs <http://dbpedia.org/resource/Zoe_Saldaña> .
+
+ex:Zoltán_Makláry
+    a ex:Actor ;
+    rdfs:label "Zoltán Makláry" ;
+    owl:sameAs <http://dbpedia.org/resource/Zoltán_Makláry> .
+
+ex:Zoltán_Várkonyi
+    a ex:Actor ;
+    rdfs:label "Zoltán Várkonyi" ;
+    owl:sameAs <http://dbpedia.org/resource/Zoltán_Várkonyi> .
+
+ex:Zsuzsa_Bánki
+    a ex:Actor ;
+    rdfs:label "Zsuzsa Bánki" ;
+    owl:sameAs <http://dbpedia.org/resource/Zsuzsa_Bánki> .
+
+ex:Ádám_Szirtes
+    a ex:Actor ;
+    rdfs:label "Ádám Szirtes" ;
+    owl:sameAs <http://dbpedia.org/resource/Ádám_Szirtes> .
+
+ex:Árpád_Lehotay
+    a ex:Actor ;
+    rdfs:label "Árpád Lehotay" ;
+    owl:sameAs <http://dbpedia.org/resource/Árpád_Lehotay> .
+
+ex:Ève_Landry
+    a ex:Actor ;
+    rdfs:label "Ève Landry" ;
+    owl:sameAs <http://dbpedia.org/resource/Ève_Landry> .
+
+ex:Édgar_Ramírez
+    a ex:Actor ;
+    rdfs:label "Édgar Ramírez" ;
+    owl:sameAs <http://dbpedia.org/resource/Édgar_Ramírez> .
+
+ex:Éric_K._Boulianne
+    a ex:Actor ;
+    rdfs:label "Éric K. Boulianne" ;
+    owl:sameAs <http://dbpedia.org/resource/Éric_K._Boulianne> .
+
+ex:Éva_Ruttkai
+    a ex:Actor ;
+    rdfs:label "Éva Ruttkai" ;
+    owl:sameAs <http://dbpedia.org/resource/Éva_Ruttkai> .

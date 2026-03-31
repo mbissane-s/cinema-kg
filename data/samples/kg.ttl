@@ -1,0 +1,464 @@
+@prefix ns1: <http://example.org/> .
+
+ns1:1984_\(2023_film\) ns1:actedIn ns1:Aleksandr_Obmanov,
+        ns1:Diana_Ringo ;
+    ns1:directedBy ns1:Diana_Ringo .
+
+ns1:80s_Buildup ns1:actedIn ns1:K._S._Ravikumar,
+        ns1:R._Sundarrajan,
+        ns1:Radhika_Preethi,
+        ns1:Santhanam_\(actor\) ;
+    ns1:directedBy ns1:Kalyaan .
+
+ns1:A_Big_Case ns1:actedIn ns1:Helena_Bušová,
+        ns1:Jaroslav_Průcha,
+        ns1:Vítězslav_Boček ;
+    ns1:directedBy ns1:Josef_Mach,
+        ns1:Václav_Kubásek .
+
+ns1:A_Bird_of_Heaven ns1:actedIn ns1:Erzsi_Somogyi,
+        ns1:Ferenc_Kiss_\(actor\),
+        ns1:Ádám_Szirtes ;
+    ns1:directedBy ns1:Imre_Fehér .
+
+ns1:A_Game_with_Love ns1:actedIn ns1:Ferenc_Kiss_\(actor\),
+        ns1:Irén_Psota,
+        ns1:László_Mensáros ;
+    ns1:directedBy ns1:Imre_Apáthi .
+
+ns1:A_Heart_Stops_Beating ns1:actedIn ns1:Katalin_Karády,
+        ns1:Tivadar_Uray,
+        ns1:Árpád_Lehotay ;
+    ns1:directedBy ns1:László_Kalmár_\(director\) .
+
+ns1:A_Husband_for_Susy ns1:actedIn ns1:Imre_Ráday,
+        ns1:Mária_Sulyok,
+        ns1:Tibor_Bitskey ;
+    ns1:directedBy ns1:Frigyes_Bán .
+
+ns1:A_Lover_of_the_Theatre ns1:actedIn ns1:László_Szilassy,
+        ns1:Mária_Egry,
+        ns1:Tibor_Halmay ;
+    ns1:directedBy ns1:Emil_Martonffy .
+
+ns1:A_Real_Pain ns1:actedIn ns1:Daniel_Oreskes,
+        ns1:Jennifer_Grey,
+        ns1:Jesse_Eisenberg,
+        ns1:Kieran_Culkin,
+        ns1:Kurt_Egyiawan,
+        ns1:Liza_Sadovy,
+        ns1:Will_Sharpe ;
+    ns1:directedBy ns1:Jesse_Eisenberg .
+
+ns1:A_Silence ns1:actedIn ns1:Daniel_Auteuil,
+        ns1:Emmanuelle_Devos ;
+    ns1:directedBy ns1:Joachim_Lafosse .
+
+ns1:A_Tribe_Called_Judah ns1:actedIn ns1:Funke_Akindele,
+        ns1:Olumide_Oworu,
+        ns1:Swanky_JKA,
+        ns1:Timini_Egbuson,
+        ns1:Tobi_Makinde,
+        ns1:Uzee_Usman ;
+    ns1:directedBy ns1:Funke_Akindele .
+
+ns1:A_Woman_Gets_a_Start ns1:actedIn ns1:Ferenc_Ladányi,
+        ns1:Klári_Tolnay,
+        ns1:Lajos_Básti ;
+    ns1:directedBy ns1:Imre_Jeney .
+
+ns1:A_Woman_Looks_Back ns1:actedIn ns1:Artúr_Somlay,
+        ns1:Maria_von_Tasnady,
+        ns1:Pál_Jávor_\(actor\) ;
+    ns1:directedBy ns1:Géza_von_Radványi .
+
+ns1:Abigail_Harm ns1:actedIn ns1:Amanda_Plummer ;
+    ns1:directedBy ns1:Lee_Isaac_Chung .
+
+ns1:Accident_\(1955_film\) ns1:actedIn ns1:Imre_Apáthi,
+        ns1:Iván_Darvas,
+        ns1:Violetta_Ferrari ;
+    ns1:directedBy ns1:Viktor_Gertler .
+
+ns1:Ada_Omo_Daddy ns1:actedIn ns1:Charles_Okafor,
+        ns1:Chiwetalu_Agu,
+        ns1:Omowumi_Dada,
+        ns1:Sola_Sobowale ;
+    ns1:directedBy ns1:Adebayo_Tijani .
+
+ns1:Adikts ns1:actedIn ns1:Kristýna_Jedličková,
+        ns1:Luciana_Tomášová,
+        ns1:Martina_Jindrová,
+        ns1:Petr_Uhlík,
+        ns1:Tadeáš_Moravec ;
+    ns1:directedBy ns1:Adam_Sedlák_\(director\) .
+
+ns1:Adrishya_Jalakangal ns1:actedIn ns1:Indrans,
+        ns1:Nimisha_Sajayan,
+        ns1:Tovino_Thomas ;
+    ns1:directedBy ns1:Dr._Biju .
+
+ns1:African_Bride ns1:actedIn ns1:Kálmán_Latabár,
+        ns1:Piri_Vaszary,
+        ns1:Valerie_Delacorte ;
+    ns1:directedBy ns1:István_Balogh_\(director\) .
+
+ns1:After_the_Storm_\(1945_film\) ns1:actedIn ns1:Alice_Fényes,
+        ns1:Sándor_Szabó_\(actor\),
+        ns1:Tivadar_Uray ;
+    ns1:directedBy ns1:József_Daróczy .
+
+ns1:All_Shall_Be_Well_\(film\) ns1:actedIn ns1:Patra_Au ;
+    ns1:directedBy ns1:Ray_Yeung .
+
+ns1:Amsterdamned_II ns1:actedIn ns1:Holly_Mae_Brood,
+        ns1:Huub_Stapel,
+        ns1:Pierre_Bokma ;
+    ns1:directedBy ns1:Dick_Maas .
+
+ns1:An_Affair_of_Honour ns1:actedIn ns1:Gyula_Kabos,
+        ns1:Imre_Ráday,
+        ns1:Zita_Perczel ;
+    ns1:directedBy ns1:Steve_Sekely .
+
+ns1:Ananda_Ashru ns1:actedIn ns1:Symon_Sadik ;
+    ns1:directedBy ns1:Mostafizur_Rahman_Manik .
+
+<http://example.org/And_Then_The_Guy...> ns1:actedIn ns1:Imre_Sinkovits,
+        ns1:Irén_Psota,
+        ns1:Mari_Törőcsik ;
+    ns1:directedBy ns1:Viktor_Gertler .
+
+ns1:Andragogy_\(film\) ns1:actedIn ns1:Angga_Yunanda,
+        ns1:Dwi_Sasono,
+        ns1:Prilly_Latuconsina,
+        ns1:Sha_Ine_Febriyanti ;
+    ns1:directedBy ns1:Wregas_Bhanuteja .
+
+ns1:András_\(film\) ns1:actedIn ns1:Antal_Páger_\(actor\),
+        ns1:Bella_Bordy,
+        ns1:Valerie_Delacorte ;
+    ns1:directedBy ns1:Viktor_Bánky .
+
+ns1:Anniversary_\(1936_film\) ns1:actedIn ns1:Antal_Páger_\(actor\),
+        ns1:Gábor_Rajnay,
+        ns1:Imre_Ráday ;
+    ns1:directedBy ns1:Béla_Gaál .
+
+ns1:Ash_\(upcoming_film\) ns1:actedIn ns1:Aaron_Paul,
+        ns1:Beulah_Koale,
+        ns1:Eiza_González,
+        ns1:Flying_Lotus,
+        ns1:Iko_Uwais,
+        ns1:Kate_Elliott_\(actress\) ;
+    ns1:directedBy ns1:Flying_Lotus .
+
+ns1:Ashi_Hi_Aashiqui ns1:actedIn ns1:Abhinay_Berde,
+        ns1:Hemal_Ingle ;
+    ns1:directedBy ns1:Sachin_Pilgaonkar .
+
+ns1:At_Midnight_\(1957_film\) ns1:actedIn ns1:Miklós_Gábor,
+        ns1:Zsuzsa_Bánki,
+        ns1:Éva_Ruttkai ;
+    ns1:directedBy ns1:György_Révész .
+
+ns1:At_the_Crossroads_\(1942_film\) ns1:actedIn ns1:Andor_Ajtay,
+        ns1:Klári_Tolnay,
+        ns1:Vera_Sennyei ;
+    ns1:directedBy ns1:Viktor_Bánky .
+
+ns1:Babygirl ns1:actedIn ns1:Antonio_Banderas,
+        ns1:Harris_Dickinson,
+        ns1:Nicole_Kidman,
+        ns1:Sophie_Wilde ;
+    ns1:directedBy ns1:Halina_Reijn .
+
+ns1:Back_to_Life_\(2023_film\) ns1:actedIn ns1:Crisol_Carabal,
+        ns1:José_Ramón_Barreto ;
+    ns1:directedBy ns1:Alfredo_Hueck .
+
+ns1:Baptism_of_Fire_\(1952_film\) ns1:actedIn ns1:Gyula_Gózon,
+        ns1:József_Bihari,
+        ns1:Zoltán_Makláry ;
+    ns1:directedBy ns1:Frigyes_Bán .
+
+ns1:Barbara_in_America ns1:actedIn ns1:Gerő_Mály,
+        ns1:Imre_Hámory,
+        ns1:Margit_Dajka ;
+    ns1:directedBy ns1:Márton_Keleti .
+
+<http://example.org/Bastar:_The_Naxal_Story> ns1:actedIn ns1:Adah_Sharma,
+        ns1:Indira_Tiwari ;
+    ns1:directedBy ns1:Sudipto_Sen .
+
+ns1:Battle_in_Peace ns1:actedIn ns1:László_Bánhidi,
+        ns1:Tibor_Molnár,
+        ns1:Ádám_Szirtes ;
+    ns1:directedBy ns1:Viktor_Gertler .
+
+ns1:Beauty_of_the_Pusta ns1:actedIn ns1:Ferenc_Kiss_\(actor\),
+        ns1:Mária_Lázár,
+        ns1:Pál_Jávor_\(actor\) ;
+    ns1:directedBy ns1:Steve_Sekely .
+
+<http://example.org/Becky_&_Badette> ns1:actedIn ns1:Eugene_Domingo,
+        ns1:Pokwang ;
+    ns1:directedBy ns1:Jun_Lana .
+
+ns1:Bellbird_\(film\) ns1:actedIn ns1:Annie_Whittle,
+        ns1:Marshall_Napier,
+        ns1:Rachel_House ;
+    ns1:directedBy ns1:Hamish_Bennett_\(director\) .
+
+ns1:Between_River_and_Steppe ns1:actedIn ns1:Attila_Hörbiger,
+        ns1:Heidemarie_Hatheyer,
+        ns1:Margit_Symo ;
+    ns1:directedBy ns1:Géza_von_Bolváry .
+
+ns1:Between_the_Temples ns1:actedIn ns1:Carol_Kane,
+        ns1:Caroline_Aaron,
+        ns1:Dolly_de_Leon,
+        ns1:Jason_Schwartzman,
+        ns1:Madeline_Weinstein,
+        ns1:Matthew_Shear,
+        ns1:Robert_Smigel ;
+    ns1:directedBy ns1:Nathan_Silver .
+
+ns1:Big_News_from_Grand_Rock ns1:actedIn ns1:Aaron_Ashmore,
+        ns1:Ennis_Esmer,
+        ns1:Meredith_MacNeill ;
+    ns1:directedBy ns1:Daniel_Perlmutter .
+
+ns1:Bootlegger_\(2021_film\) ns1:actedIn ns1:Devery_Jacobs,
+        ns1:Pascale_Bussières ;
+    ns1:directedBy ns1:Caroline_Monnet .
+
+ns1:Breath_of_Life_\(2023_film\) ns1:actedIn ns1:Chimezie_Imo,
+        ns1:Eku_Edewor,
+        ns1:Genoveva_Umeh,
+        ns1:Sam_Dede,
+        ns1:Wale_Ojo ;
+    ns1:directedBy ns1:BB_Sasore .
+
+ns1:Brothers_\(1929_American_film\) ns1:actedIn ns1:Barbara_Bedford_\(actress\),
+        ns1:Cornelius_Keefe ;
+    ns1:directedBy ns1:Scott_Pembroke .
+
+ns1:Bungalow_\(2022_film\) ns1:actedIn ns1:Geneviève_Schmidt,
+        ns1:Guillaume_Cyr,
+        ns1:Ève_Landry ;
+    ns1:directedBy ns1:Lawrence_Côté-Collins .
+
+ns1:Bury_the_Bride ns1:actedIn ns1:Cameron_Cowperthwaite,
+        ns1:Chaz_Bono,
+        ns1:Katie_Ryan,
+        ns1:Krsy_Fox,
+        ns1:Scout_Taylor-Compton ;
+    ns1:directedBy ns1:Spider_One .
+
+ns1:By_Order_of_the_Emperor ns1:actedIn ns1:Ferenc_Bessenyei,
+        ns1:Sándor_Deák,
+        ns1:Éva_Ruttkai ;
+    ns1:directedBy ns1:Frigyes_Bán .
+
+ns1:Caniba_\(film\) ns1:actedIn ns1:Issei_Sagawa ;
+    ns1:directedBy ns1:Lucien_Castaing-Taylor,
+        ns1:Véréna_Paravel .
+
+ns1:Castle_in_Transylvania ns1:actedIn ns1:Antal_Páger_\(actor\),
+        ns1:Maria_von_Tasnady,
+        ns1:Mária_Mezei ;
+    ns1:directedBy ns1:Félix_Podmaniczky .
+
+ns1:Changu_Mangu ns1:actedIn ns1:Aruna_Irani,
+        ns1:Ashok_Saraf,
+        ns1:Kishori_Shahane,
+        ns1:Laxmikant_Berde,
+        ns1:Nayantara_\(Marathi_actress\),
+        ns1:Nivedita_Saraf,
+        ns1:Raja_Gosavi,
+        ns1:Sudhir_Joshi,
+        ns1:Viju_Khote ;
+    ns1:directedBy ns1:Bipin_Varti .
+
+ns1:Chathuram ns1:actedIn ns1:Alencier_Ley_Lopez,
+        ns1:Jaffar_Idukki,
+        ns1:Roshan_Mathew,
+        ns1:Swasika ;
+    ns1:directedBy ns1:Sidharth_Bharathan .
+
+ns1:Chief_of_Station_\(film\) ns1:actedIn ns1:Aaron_Eckhart,
+        ns1:Alex_Pettyfer,
+        ns1:Chris_Petrovski,
+        ns1:Daniel_Bernhardt,
+        ns1:James_Faulkner_\(actor\),
+        ns1:Nick_Moran,
+        ns1:Olga_Kurylenko ;
+    ns1:directedBy ns1:Jesse_V._Johnson .
+
+ns1:Chosen_Family_\(film\) ns1:actedIn ns1:Andrea_Savage,
+        ns1:Heather_Graham,
+        ns1:John_Brotherton,
+        ns1:Julia_Stiles,
+        ns1:Julie_Halston,
+        ns1:Michael_Gross_\(actor\),
+        ns1:Thomas_Lennon ;
+    ns1:directedBy ns1:Heather_Graham .
+
+ns1:Code_3_\(film\) ns1:actedIn ns1:Aimee_Carrero,
+        ns1:Lil_Rel_Howery,
+        ns1:Page_Kennedy,
+        ns1:Rainn_Wilson,
+        ns1:Rob_Riggle,
+        ns1:Yvette_Nicole_Brown ;
+    ns1:directedBy ns1:Christopher_Leone .
+
+ns1:Cornflower_\(film\) ns1:actedIn ns1:Antal_Páger_\(actor\),
+        ns1:Irén_Ágay,
+        ns1:Lili_Berky ;
+    ns1:directedBy ns1:Steve_Sekely .
+
+ns1:Crakk ns1:actedIn ns1:Amy_Jackson,
+        ns1:Ankit_Mohan,
+        ns1:Arjun_Rampal,
+        ns1:Jamie_Lever,
+        ns1:Nora_Fatehi,
+        ns1:Pooja_Sawant,
+        ns1:Rukmini_Maitra,
+        ns1:Vidyut_Jammwal ;
+    ns1:directedBy ns1:Aditya_Datt .
+
+ns1:Crime_at_Dawn ns1:actedIn ns1:Antal_Páger_\(actor\),
+        ns1:Irén_Psota,
+        ns1:Lajos_Básti ;
+    ns1:directedBy ns1:Zoltán_Várkonyi .
+
+ns1:Crimes_Against_Humanity_\(film\) ns1:actedIn ns1:Lyra_Hill,
+        ns1:Ted_Tremper ;
+    ns1:directedBy ns1:Jerzy_Rose .
+
+ns1:Cult_Killer ns1:actedIn ns1:Alice_Eve,
+        ns1:Antonio_Banderas,
+        ns1:Paul_Reid_\(actor\),
+        ns1:Shelley_Hennig ;
+    ns1:directedBy ns1:Jon_Keeyes .
+
+ns1:Dani_\(film\) ns1:actedIn ns1:Antal_Páger_\(actor\),
+        ns1:Klári_Tolnay,
+        ns1:Margit_Bara ;
+    ns1:directedBy ns1:Mihály_Szemes .
+
+ns1:Danse_Macabre_\(1958_film\) ns1:actedIn ns1:Antal_Páger_\(actor\),
+        ns1:Klári_Tolnay,
+        ns1:Margit_Bara ;
+    ns1:directedBy ns1:László_Nádasy,
+        ns1:László_Ranódy .
+
+ns1:Deadcon ns1:actedIn ns1:Carl_Gilliard,
+        ns1:Claudia_Sulewski,
+        ns1:Keith_Machekanyanga,
+        ns1:Lauren_Elizabeth_\(YouTuber\),
+        ns1:Lukas_Gage,
+        ns1:Mimi_Gianopulos ;
+    ns1:directedBy ns1:Caryn_Waechter .
+
+ns1:Deadly_Kiss ns1:actedIn ns1:Gábor_Rajnay,
+        ns1:István_Nagy_\(actor\),
+        ns1:Katalin_Karády ;
+    ns1:directedBy ns1:László_Kalmár_\(director\) .
+
+<http://example.org/Don't_Ask_Who_I_Was> ns1:actedIn ns1:Katalin_Karády,
+        ns1:Mariska_Vízváry,
+        ns1:Sándor_Szabó_\(actor\) ;
+    ns1:directedBy ns1:Béla_Balogh .
+
+<http://example.org/Don_Juan's_Last_Adventure> ns1:actedIn ns1:Antal_Páger_\(actor\),
+        ns1:Margit_Bara,
+        ns1:Zoltán_Várkonyi ;
+    ns1:directedBy ns1:Márton_Keleti .
+
+ns1:Dream_Waltz ns1:actedIn ns1:János_Sárdy,
+        ns1:Margit_Zsilley,
+        ns1:Mici_Erdélyi ;
+    ns1:directedBy ns1:Félix_Podmaniczky .
+
+ns1:Dreams_of_Love_\(1935_German_film\) ns1:actedIn ns1:Franz_Herterich,
+        ns1:Olga_Chekhova,
+        ns1:Walter_Steinbeck ;
+    ns1:directedBy ns1:Heinz_Hille .
+
+ns1:Dry_Day ns1:actedIn ns1:Annu_Kapoor,
+        ns1:Jitendra_Kumar,
+        ns1:Shriya_Pilgaonkar ;
+    ns1:directedBy ns1:Saurabh_Shukla .
+
+<http://example.org/Dvand:_The_Internal_Conflict> ns1:actedIn ns1:Ishtiyak_Khan,
+        ns1:Sanjay_Mishra_\(actor\) ;
+    ns1:directedBy ns1:Ishtiyak_Khan .
+
+ns1:Déryné_\(film\) ns1:actedIn ns1:Gyula_Gózon,
+        ns1:Gábor_Rajnay,
+        ns1:Klári_Tolnay ;
+    ns1:directedBy ns1:László_Kalmár_\(director\) .
+
+ns1:Dìdi ns1:actedIn ns1:Izaac_Wang,
+        ns1:Joan_Chen ;
+    ns1:directedBy ns1:Sean_Wang .
+
+ns1:Eden_\(2024_film\) ns1:actedIn ns1:Ana_de_Armas,
+        ns1:Daniel_Brühl,
+        ns1:Felix_Kammerer,
+        ns1:Jude_Law,
+        ns1:Richard_Roxburgh,
+        ns1:Sydney_Sweeney,
+        ns1:Toby_Wallace,
+        ns1:Vanessa_Kirby ;
+    ns1:directedBy ns1:Ron_Howard .
+
+ns1:Emilia_Pérez__Emilia_Pérez__1 ns1:actedIn ns1:Adriana_Paz,
+        ns1:Karla_Sofía_Gascón,
+        ns1:Mark_Ivanir,
+        ns1:Selena_Gomez,
+        ns1:Zoe_Saldaña,
+        ns1:Édgar_Ramírez ;
+    ns1:directedBy ns1:Jacques_Audiard .
+
+ns1:Exhibiting_Forgiveness ns1:actedIn ns1:Andra_Day,
+        ns1:André_Holland,
+        ns1:Aunjanue_Ellis-Taylor,
+        ns1:John_Earl_Jelks ;
+    ns1:directedBy ns1:Titus_Kaphar .
+
+ns1:Falcon_Lake_\(film\) ns1:actedIn ns1:Joseph_Engel,
+        ns1:Karine_Gonthier-Hyndman,
+        ns1:Monia_Chokri,
+        ns1:Sara_Montpetit ;
+    ns1:directedBy ns1:Charlotte_Le_Bon .
+
+ns1:Falling_In_Love_Like_In_Movies ns1:actedIn ns1:Alex_Abbad,
+        ns1:Dion_Wiyoko,
+        ns1:Julie_Estelle,
+        ns1:Nirina_Zubir,
+        ns1:Ringgo_Agus_Rahman,
+        ns1:Sheila_Dara_Aisha ;
+    ns1:directedBy ns1:Yandy_Laurens .
+
+ns1:Family_Bonus ns1:actedIn ns1:Gerő_Mály,
+        ns1:Magda_Kun,
+        ns1:Steven_Geray ;
+    ns1:directedBy ns1:Jenö_Csepreghy .
+
+ns1:Fantastic_Night_\(1943_film\) ns1:actedIn ns1:Carlos_Muñoz_\(actor\),
+        ns1:Isabel_de_Pomés,
+        ns1:Paola_Barbara ;
+    ns1:directedBy ns1:Luis_Marquina_\(director\) .
+
+ns1:Farador ns1:actedIn ns1:Catherine_Brunet,
+        ns1:Éric_K._Boulianne ;
+    ns1:directedBy ns1:Édouard_Albernhe_Tremblay .
+
+ns1:Christmess ns1:actedIn ns1:Darren_Gilshenan,
+        ns1:Middle_Kids,
+        ns1:Steve_Le_Marquand ;
+    ns1:directedBy ns1:Christmess .
+
